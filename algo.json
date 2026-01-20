@@ -1,0 +1,5202 @@
+[
+    {
+        "question": "\n1. Which of the following is a common technique used to analyze the time complexity of algorithms?",
+        "true-answer": " Worst-case analysis",
+        "wrong-answers": [
+            " Randomization",
+            " Heuristics",
+            " Dynamic programming",
+            " Enumeration"
+        ]
+    },
+    {
+        "question": "\n2. Which of the following is a disadvantage of the brute force approach to solving the 3-SUM problem?",
+        "true-answer": " It has a high worst-case time complexity",
+        "wrong-answers": [
+            " It requires a lot of memory",
+            " It is not accurate",
+            " It is difficult to implement",
+            " None of them"
+        ]
+    },
+    {
+        "question": "\n3. What is the worst-case time complexity of the 3-SUM algorithm with brute force?",
+        "true-answer": " O(n^3)",
+        "wrong-answers": [
+            " O(n log n)",
+            " O(n)",
+            " O(n^2)",
+            " O(2^n)"
+        ]
+    },
+    {
+        "question": "\n4. What is the worst-case time complexity of the 2-SUM algorithm?",
+        "true-answer": " O(n^2)",
+        "wrong-answers": [
+            " O(2^n)",
+            " O(n^3)",
+            " O(n log n)",
+            " O(1)"
+        ]
+    },
+    {
+        "question": "\n5. What is the best-case time complexity of the 1-SUM algorithm in the sorted array?",
+        "true-answer": " O(1)",
+        "wrong-answers": [
+            " O(n log n)",
+            " O(n^3)",
+            " O(n)",
+            " O(n^2)"
+        ]
+    },
+    {
+        "question": "\n6. What is the best-case time complexity of the 1-SUM algorithm with brute force approach?",
+        "true-answer": " O(n)",
+        "wrong-answers": [
+            " O(2^n)",
+            " O(n^3)",
+            " O(n^2)",
+            " O(n log n)"
+        ]
+    },
+    {
+        "question": "\n7. What is the time complexity of a brute-force approach to the 1-SUM problem?",
+        "true-answer": " O(n)",
+        "wrong-answers": [
+            " O(n log n)",
+            " O(2^n)",
+            " O(n^3)",
+            " O(n^2)"
+        ]
+    },
+    {
+        "question": "\n8. What is the worst-case time complexity of the 1-SUM algorithm?",
+        "true-answer": " O(n)",
+        "wrong-answers": [
+            " O(2^n)",
+            " O(n log n)",
+            " O(n^2)",
+            " O(n^3)"
+        ]
+    },
+    {
+        "question": "\n9. . In the 3-SUM problem, you are given an array of integers and a target value. What is the goal?",
+        "true-answer": " To find three integers in the array that sum to the target value",
+        "wrong-answers": [
+            " To find the target value as the product of three integers in the array",
+            " To find the target value as the sum of three integers in the array",
+            " To find the target value as the sum of all integers in the array",
+            " To find three integers in the array that are equal to the target value"
+        ]
+    },
+    {
+        "question": "\n10. Which of the following is a problem that can be solved using the 3-SUM algorithm with brute force?",
+        "true-answer": " Finding a triple of elements in an array that sum up to a given target value",
+        "wrong-answers": [
+            " Finding the median of an array",
+            " Sorting an array in desending order",
+            " Finding the two largest elements in an array",
+            " Sorting an array in ascending order"
+        ]
+    },
+    {
+        "question": "\n11. Which of the following is a problem that can be solved using the 2-SUM algorithm?",
+        "true-answer": " Finding a pair of elements in an array that sum up to a given target value",
+        "wrong-answers": [
+            " Sorting an array in desending order",
+            " Sorting an array in ascending order",
+            " Finding the two largest elements in an array",
+            " Finding the median of an array"
+        ]
+    },
+    {
+        "question": "\n12. Which of the following is a problem that can be solved using the 1-SUM algorithm?",
+        "true-answer": " None of all",
+        "wrong-answers": [
+            " Finding the median of an array",
+            " Finding the two largest elements in an array",
+            " Sorting an array in ascending order",
+            " Sorting an array in desending order"
+        ]
+    },
+    {
+        "question": "\n13. Which of the following is a common technique used to analyze the time complexity of sorting algorithms?",
+        "true-answer": " Worst-case analysis",
+        "wrong-answers": [
+            " Randomization",
+            " Dynamic programming",
+            " Enumeration",
+            " None of them"
+        ]
+    },
+    {
+        "question": "\n14. Which of the following is a stable sorting algorithm?",
+        "true-answer": " Merge sort",
+        "wrong-answers": [
+            " Quick sort",
+            " Selection sort",
+            " Shell sort",
+            " Heap sort"
+        ]
+    },
+    {
+        "question": "\n15. Which of the following is a disadvantage of merge sort compared to quick sort?",
+        "true-answer": " It requires more memory",
+        "wrong-answers": [
+            " It is less efficient for small arrays",
+            " None of them",
+            " It is not a stable sort",
+            " It has a higher worst-case time complexity"
+        ]
+    },
+    {
+        "question": "\n16. Which of the following is a disadvantage of quick sort compared to merge sort?",
+        "true-answer": " Which of the following is a disadvantage of quick sort compared to merge sort?",
+        "wrong-answers": [
+            " It requires more memory",
+            " None of them",
+            " It is not a stable sort",
+            " It is less efficient for small arrays"
+        ]
+    },
+    {
+        "question": "\n17. Which of the following is NOT a step in the quick sort algorithm?",
+        "true-answer": " Merging the sub-arrays",
+        "wrong-answers": [
+            " None of them",
+            " Partitioning the array",
+            " Recursively sorting the sub-arrays",
+            " Selecting a pivot element"
+        ]
+    },
+    {
+        "question": "\n18. Which of the following is a divide-and-conquer algorithm that sorts an array in O(n log n) time?",
+        "true-answer": " Merge sort",
+        "wrong-answers": [
+            " Selection sort",
+            " Bubble sort",
+            " Quick sort",
+            " Insertion sort"
+        ]
+    },
+    {
+        "question": "\n19. Which of the following is a comparison-based sorting algorithm with worst-case time complexity of O(n^2)?",
+        "true-answer": " Quick sort",
+        "wrong-answers": [
+            " Bubble sort",
+            " Insertion sort",
+            " Tim sort",
+            " Merge sort"
+        ]
+    },
+    {
+        "question": "\n20. Which of the following is an example of an algorithm with exponential time complexity?",
+        "true-answer": " Brute force algorithm",
+        "wrong-answers": [
+            " Selection sort",
+            " Quick sort",
+            " Binary search",
+            " Bubble sort"
+        ]
+    },
+    {
+        "question": "\n21. Which of the following is a common way to express algorithm complexity?",
+        "true-answer": " All of the them",
+        "wrong-answers": [
+            " Running time",
+            " Number of operations",
+            " None of the above",
+            " Memory usage"
+        ]
+    },
+    {
+        "question": "\n22. Which of the following is a common technique used to analyze algorithm complexity?",
+        "true-answer": " Worst-case",
+        "wrong-answers": [
+            " Enumeration",
+            " Heuristics",
+            " Backtracking",
+            " Randomization"
+        ]
+    },
+    {
+        "question": "\n23. Which of the following is an example of an algorithm with constant time complexity?",
+        "true-answer": " Binary search",
+        "wrong-answers": [
+            " Merge sort",
+            " Insertion sort",
+            " Selection sort",
+            " Bubble sort"
+        ]
+    },
+    {
+        "question": "\n24. Which of the following is an example of an algorithm with quadratic time complexity?",
+        "true-answer": " Selection sort",
+        "wrong-answers": [
+            " Quick sort",
+            " Heap sort",
+            " Merge sort",
+            " Radix"
+        ]
+    },
+    {
+        "question": "\n25. Which of the following is an example of an algorithm with quadratic time complexity?",
+        "true-answer": " Bubble sort",
+        "wrong-answers": [
+            " Merge sort",
+            " Radix sort",
+            " Heap sort",
+            " Quick sort"
+        ]
+    },
+    {
+        "question": "\n26. Which of the following is an example of an algorithm with logarithmic time complexity?",
+        "true-answer": " Binary search",
+        "wrong-answers": [
+            " Insertion sort",
+            " Bubble sort",
+            " Radix sort",
+            " Heap sort"
+        ]
+    },
+    {
+        "question": "\n27. Which of the following is an example of an algorithm with linear time complexity?",
+        "true-answer": " Binary search",
+        "wrong-answers": [
+            " Bubble sort",
+            " Merge sort",
+            " Selection sort",
+            " Quick sort"
+        ]
+    },
+    {
+        "question": "\n28. Which of the following is NOT a common complexity class for algorithms?",
+        "true-answer": " O(n!)",
+        "wrong-answers": [
+            " O(n^3)",
+            " O(log n)",
+            " O(1)",
+            " O(n)"
+        ]
+    },
+    {
+        "question": "\n29. Which of the following is NOT a common algorithm analysis technique?",
+        "true-answer": " Enumeration",
+        "wrong-answers": [
+            " Worst-case analysis",
+            " Average-case analysis",
+            " Amortized analysis",
+            " Best-case analysis"
+        ]
+    },
+    {
+        "question": "\n30. Which of the following is NOT a common algorithm design technique?",
+        "true-answer": " Enumeration",
+        "wrong-answers": [
+            " Divide and conquer",
+            " Randomization",
+            " Dynamic programming",
+            " Brute force"
+        ]
+    },
+    {
+        "question": "\n31. What does Big O notation describe?",
+        "true-answer": " The worst-case performance of an algorithm",
+        "wrong-answers": [
+            " The average-case performance of an algorithm",
+            " The performance of an algorithm on a specific computer",
+            " The performance of an algorithm for a specific input size",
+            " The best-case performance of an algorithm"
+        ]
+    },
+    {
+        "question": "\n32. What does Big Omega notation describe?",
+        "true-answer": " The best-case performance of an algorithm",
+        "wrong-answers": [
+            " The worst-case performance of an algorithm",
+            " The performance of an algorithm on a specific computer",
+            " The performance of an algorithm for a specific input size",
+            " The average-case performance of an algorithm"
+        ]
+    },
+    {
+        "question": "\n33. What does Big Theta notation describe?",
+        "true-answer": " The average-case performance of an algorithm",
+        "wrong-answers": [
+            " The worst-case performance of an algorithm",
+            " The performance of an algorithm on a specific computer",
+            " The performance of an algorithm for a specific input size",
+            " The best-case performance of an algorithm"
+        ]
+    },
+    {
+        "question": "\n34. Which of the following is a key characteristic of an algorithm?",
+        "true-answer": " It must have a finite number of steps",
+        "wrong-answers": [
+            " It must be written in a specific programming language",
+            " It must always produce the same output",
+            " It must be created by a team of computer scientists",
+            " It is only applicable to computer science problems"
+        ]
+    },
+    {
+        "question": "\n35. What is an algorithm?",
+        "true-answer": " A step-by-step procedure for solving a problem or executing a task",
+        "wrong-answers": [
+            " A structure for storing data in a computer program",
+            " A type of software used for creating digital art",
+            " A computer program that can learn from experience",
+            " A method for analyzing the performance of a computer program"
+        ]
+    },
+    {
+        "question": "\n36. Which of the following is a problem that can be solved using the merge sort algorithm?",
+        "true-answer": " Sorting an array in desending order",
+        "wrong-answers": [
+            " Finding a specific element in a sorted array",
+            " Finding the shortest path between two nodes in a graph",
+            " Finding the maximum flow in a flow network",
+            " Finding a specific element in a sorted array"
+        ]
+    },
+    {
+        "question": "\n37. Which of the following is a problem that can be solved using the linear search algorithm?",
+        "true-answer": " Finding a specific element in a sorted array",
+        "wrong-answers": [
+            " Finding the shortest path between two nodes in a graph",
+            " Finding the maximum flow in a flow network",
+            " None of them",
+            " Sorting an array in ascending order"
+        ]
+    },
+    {
+        "question": "\n38. Which of the following is a problem that can be solved using the merge sort algorithm?",
+        "true-answer": " Sorting an array in ascending order",
+        "wrong-answers": [
+            " Finding the shortest path between two nodes in a graph",
+            " Finding a specific element in a sorted array",
+            " Finding a specific element in a sorted array",
+            " Finding the maximum flow in a flow network"
+        ]
+    },
+    {
+        "question": "\n39. Which of the following sorting algorithms uses a divide and conquer approach?",
+        "true-answer": " Merge Sort",
+        "wrong-answers": [
+            " Bubble Sort",
+            " Selection Sort",
+            " Linear Sort",
+            " Insertion Sort"
+        ]
+    },
+    {
+        "question": "\n40. Which of the following is an algorithm that can be used to sort an array in O(n log n) time using the divide and conquer approach?",
+        "true-answer": " Quick sort",
+        "wrong-answers": [
+            " Bubble sort",
+            " Selection sort",
+            " Radix sort",
+            " Insertion sort"
+        ]
+    },
+    {
+        "question": "\n41. What is the avarage-case time complexity of Bubble Sort?",
+        "true-answer": " O(n^2)",
+        "wrong-answers": [
+            " O(n)",
+            " O(n^3)",
+            " O(n log n)",
+            " O(2^n)"
+        ]
+    },
+    {
+        "question": "\n42. What is the avarage-case time complexity of Selection Sort?",
+        "true-answer": " O(n^2)",
+        "wrong-answers": [
+            " O(n)",
+            " O(n^3)",
+            " O(n log n)",
+            " O(2^n)"
+        ]
+    },
+    {
+        "question": "\n43. What is the avarage-case time complexity of Insertion Sort?",
+        "true-answer": " O(n^2)",
+        "wrong-answers": [
+            " O(n)",
+            " O(n^3)",
+            " O(n log n)",
+            " O(2^n)"
+        ]
+    },
+    {
+        "question": "\n44. What is the best-case time complexity of Insertion Sort?",
+        "true-answer": " O(n)",
+        "wrong-answers": [
+            " O(n^2)",
+            " O(n^3)",
+            " O(n log n)",
+            " O(2^n)"
+        ]
+    },
+    {
+        "question": "\n45. What is the worst-case time complexity of Insertion Sort?",
+        "true-answer": " O(n^2)",
+        "wrong-answers": [
+            " O(n)",
+            " O(n^3)",
+            " O(n log n)",
+            " O(2^n)"
+        ]
+    },
+    {
+        "question": "\n46. What is the best-case time complexity of Selection Sort?",
+        "true-answer": " O(n^2)",
+        "wrong-answers": [
+            " O(n)",
+            " O(n^3)",
+            " O(n log n)",
+            " O(2^n)"
+        ]
+    },
+    {
+        "question": "\n47. What is the worst-case time complexity of Selection Sort?",
+        "true-answer": " O(n^2)",
+        "wrong-answers": [
+            " O(n)",
+            " O(n^3)",
+            " O(n log n)",
+            " O(2^n)"
+        ]
+    },
+    {
+        "question": "\n48. What is the worst-case time complexity of Bubble Sort?",
+        "true-answer": " O(n^2)",
+        "wrong-answers": [
+            " O(n)",
+            " O(n^3)",
+            " O(n log n)",
+            " O(2^n)"
+        ]
+    },
+    {
+        "question": "\n49. What is the best-case time complexity of Bubble Sort?",
+        "true-answer": " O(n^2)",
+        "wrong-answers": [
+            " O(n)",
+            " O(n^3)",
+            " O(n log n)",
+            " O(2^n)"
+        ]
+    },
+    {
+        "question": "\n50. Which of the following is a disadvantage of the divide and conquer approach?",
+        "true-answer": " It can lead to stack overflow errors",
+        "wrong-answers": [
+            " It is not efficient for large datasets",
+            " It requires a lot of memory",
+            " None of them",
+            " It is difficult to implement"
+        ]
+    },
+    {
+        "question": "\n51. Which of the following algorithms utilizes a decrease and conquer approach?",
+        "true-answer": " Quick sort",
+        "wrong-answers": [
+            " Binary search",
+            " 3-SUM problem",
+            " 2-SUM problem",
+            " Merge sort"
+        ]
+    },
+    {
+        "question": "\n52. In the context of algorithms , which problem-solving technique involves breaking a problem into smaller subproblems and solving them\nindependently?",
+        "true-answer": " Divide and conquer approach",
+        "wrong-answers": [
+            " Dynamic programming",
+            " Backtracking",
+            " Branch and bound",
+            " Greedy algorithms"
+        ]
+    },
+    {
+        "question": "\n53. Which of the following is NOT a step in the divide and conquer approach?",
+        "true-answer": " Solve the problem with the decreasing datas",
+        "wrong-answers": [
+            " Divide the problem into subproblems",
+            " Combine the solutions to the subproblems",
+            " Repeat the process until the problem is solved",
+            " Solve the subproblems recursively"
+        ]
+    },
+    {
+        "question": "\n54. Which of the following is a common example of an algorithm that uses the divide and conquer approach?",
+        "true-answer": " Binary search",
+        "wrong-answers": [
+            " Bubble sort",
+            " Insertion sort",
+            " Selection sort",
+            " Linear search"
+        ]
+    },
+    {
+        "question": "\n55. Which of the following is a disadvantage of using iteration in binary search?",
+        "true-answer": " It makes the code harder to read and understand",
+        "wrong-answers": [
+            " It is less efficient than using recursion",
+            " It is not compatible with all programming languages",
+            " It is not compatible with all programming languages",
+            " It increases the worst-case time complexity of the algorithm"
+        ]
+    },
+    {
+        "question": "\n56. Which of the following is an example of a problem that can be solved using binary search?",
+        "true-answer": " Finding a specific element in a sorted array",
+        "wrong-answers": [
+            " Finding the shortest path between two nodes in a graph",
+            " Finding the maximum flow in a flow network",
+            " Sorting an array in desending order",
+            " Sorting an array in ascending order"
+        ]
+    },
+    {
+        "question": "\n57. Which of the following is a disadvantage of binary search compared to linear search?",
+        "true-answer": " It requires a sorted array",
+        "wrong-answers": [
+            " It has a higher worst-case time complexity",
+            " It is more difficult to implement",
+            " None of them",
+            " It requires more memory"
+        ]
+    },
+    {
+        "question": "\n58. What is a prerequisite for using binary search on an array?",
+        "true-answer": " The array must already be sorted",
+        "wrong-answers": [
+            " The array must be sorted in ascending order",
+            " The array must be of even length",
+            " The array must contain integers only",
+            " The array must be sorted in descending order"
+        ]
+    },
+    {
+        "question": "\n59. What is a prerequisite for using binary search on an array?",
+        "true-answer": " The array must not contain any duplicate elements",
+        "wrong-answers": [
+            " The array must be sorted in ascending order",
+            " The array must be of even length",
+            " The array must contain integers only",
+            " The array must be sorted in descending order"
+        ]
+    },
+    {
+        "question": "\n60. What is the best-case time complexity of binary search on a sorted array?",
+        "true-answer": " O(1)",
+        "wrong-answers": [
+            " O(log n)",
+            " O(n log n)",
+            " O(n^2)",
+            " O(n)"
+        ]
+    },
+    {
+        "question": "\n61. What is the time complexity of linear search on an unsorted array?",
+        "true-answer": " O(n)",
+        "wrong-answers": [
+            " O(n log n)",
+            " O(n^3)",
+            " O(2^n)",
+            " O(n^2)"
+        ]
+    },
+    {
+        "question": "\n62. What is the worst-case time complexity of binary search on a sorted array?",
+        "true-answer": " O(log(n))",
+        "wrong-answers": [
+            " O(n)",
+            " O(1)",
+            " O(n log n)",
+            " O(n^2)"
+        ]
+    },
+    {
+        "question": "\n63. What is the best-case time complexity of the binary search algorithm?",
+        "true-answer": " O(1)",
+        "wrong-answers": [
+            " O(log n)",
+            " O(n log n)",
+            " O(n^2)",
+            " O(n)"
+        ]
+    },
+    {
+        "question": "\n64. What is the worst-case time complexity of the binary search algorithm?",
+        "true-answer": " O(log n)",
+        "wrong-answers": [
+            " O(1)",
+            " O(n log n)",
+            " O(n^2)",
+            " O(n)"
+        ]
+    },
+    {
+        "question": "\n65. Which of the following is a searching algorithm that only works on a sorted array?",
+        "true-answer": " Binary search",
+        "wrong-answers": [
+            " Linear search",
+            " Breadth-first search",
+            " None of them",
+            " Depth-first search"
+        ]
+    },
+    {
+        "question": "\n66. Which of the following is a disadvantage of linear search?",
+        "true-answer": " Greater time complexities compared to other searching algorithms",
+        "wrong-answers": [
+            " Requires more space",
+            " Not easy to implement",
+            " No one above",
+            " Not easy to understand"
+        ]
+    },
+    {
+        "question": "\n67. What is the best case and worst case complexity of ordered linear search if every element use only one time?",
+        "true-answer": " O(1), O(n)",
+        "wrong-answers": [
+            "",
+            " O(n), O(1)",
+            " O(logn), O(nlogn)",
+            " O(nlogn), O(logn)"
+        ]
+    },
+    {
+        "question": "\n68. What is the worst case for linear search?",
+        "true-answer": " O(n)",
+        "wrong-answers": [
+            " O(nlogn)",
+            " O(1)",
+            " O(n^2)",
+            " O(logn)"
+        ]
+    },
+    {
+        "question": "\n69. What is the best case for linear search if every element use only one time?",
+        "true-answer": " O(1)",
+        "wrong-answers": [
+            "",
+            " O(n)",
+            " O(logn)",
+            " O(n^2)"
+        ]
+    },
+    {
+        "question": "\n70. Where is linear searching used?",
+        "true-answer": " When the list has only a few elements and when performing a single search in an unordered list",
+        "wrong-answers": [
+            " Never use",
+            " When performing a single search in an unordered list",
+            " Used all the time",
+            " When the list has only a few elements"
+        ]
+    },
+    {
+        "question": "\n71. What is the average-case time complexity of Quick Sort?",
+        "true-answer": " O(2NLnN)",
+        "wrong-answers": [
+            " O(n)",
+            " O(n^3)",
+            " O(n^2)",
+            " O(logn)"
+        ]
+    },
+    {
+        "question": "\n72. What is the time complexity of Quick Sort algorithm in the best case?",
+        "true-answer": " O(nlogn)",
+        "wrong-answers": [
+            " O(n)",
+            " O(n^3)",
+            " O(n^2)",
+            " O(logn)"
+        ]
+    },
+    {
+        "question": "\n73.\nWhat is the time complexity of the following code snippet?\nfor i in range(n):\n---print (i)",
+        "true-answer": " O(n)",
+        "wrong-answers": [
+            " O(n^3)",
+            " O(nlogn)",
+            " O(logn)",
+            " O(n^2)"
+        ]
+    },
+    {
+        "question": "\n74.\nWhat is the time complexity of the following code snippet?\nfor i in range(n):\n--for j in range (n):\n----for k in range (n):\n------print (i, j)",
+        "true-answer": " O(n^3)",
+        "wrong-answers": [
+            " O(n^2)",
+            " O(n)",
+            " O(logn)",
+            " O(nlogn)"
+        ]
+    },
+    {
+        "question": "\n75.\nWhat is the time complexity of the following code snippet?\nfor i in range(n):\n--for j in range (n):\n----print (i, j)",
+        "true-answer": " O(n^2)",
+        "wrong-answers": [
+            " O(nlogn)",
+            " O(logn)",
+            " O(n^3)",
+            " O(n)"
+        ]
+    },
+    {
+        "question": "\n76. Which of the following is a technique used to reduce the time complexity of the linear search algorithm for large datasets?",
+        "true-answer": " Binary search",
+        "wrong-answers": [
+            " Randomization",
+            " Memoization",
+            " None of them",
+            " Dynamic programming"
+        ]
+    },
+    {
+        "question": "\n77. Which of the following is an example of a problem that can be solved using the linear search algorithm?",
+        "true-answer": " Finding a specific element in a sorted list",
+        "wrong-answers": [
+            " Finding the maximum flow in a flow network",
+            " Finding the shortest path between two nodes in a graph",
+            " Sorting an array in ascending order",
+            " None of them"
+        ]
+    },
+    {
+        "question": "\n78. Which of the following is a disadvantage of using the binary search algorithm?",
+        "true-answer": " It can only be used with sorted lists",
+        "wrong-answers": [
+            " It has a higher worst-case time complexity than other search algorithms",
+            " It is less efficient than other search algorithms",
+            " None of them",
+            " It requires more memory than other search algorithms"
+        ]
+    },
+    {
+        "question": "\n79. Which of the following is a technique used to reduce the worst-case time complexity of the linear search algorithm?",
+        "true-answer": " Binary search",
+        "wrong-answers": [
+            " Dynamic programming",
+            " Randomization",
+            " None of them",
+            " Memoization"
+        ]
+    },
+    {
+        "question": "\n80. Which of the following is a disadvantage of using the linear search algorithm to find an element in a large list?",
+        "true-answer": " It has a higher worst-case time complexity than other search algorithms",
+        "wrong-answers": [
+            " It requires more memory than other search algorithms",
+            " It can only be used with sorted lists",
+            " None of them",
+            " It is less efficient than other search algorithms"
+        ]
+    },
+    {
+        "question": "\n81. Which of the following is a technique used to improve the performance of the linear search algorithm?",
+        "true-answer": " Binary search",
+        "wrong-answers": [
+            " Randomization",
+            " Dynamic programming",
+            " None of them",
+            " Memoization"
+        ]
+    },
+    {
+        "question": "\n82. Which of the following is a disadvantage of using the linear search algorithm?",
+        "true-answer": " It is less efficient than other search algorithms",
+        "wrong-answers": [
+            " It has a higher worst-case time complexity than other search algorithms",
+            " None of them",
+            " It can only be used with sorted lists",
+            " It requires more memory than other search algorithms"
+        ]
+    },
+    {
+        "question": "\n83. Which of the following is a search algorithm that sequentially checks each element of the list until a match is found or the end of the list\nis reached?",
+        "true-answer": " Linear search",
+        "wrong-answers": [
+            " Binary search",
+            " Breadth-first search",
+            " None of them",
+            " Depth-first search"
+        ]
+    },
+    {
+        "question": "\n84. Which of the following is a sorting algorithm that works by repeatedly finding the minimum element from the unsorted part of the array\nand putting it at the beginning?",
+        "true-answer": " Selection sort",
+        "wrong-answers": [
+            " Bubble sort",
+            " Quick sort",
+            " Linear sort",
+            " Insertion sort"
+        ]
+    },
+    {
+        "question": "\n85. Which of the following is a sorting algorithm that has a worst-case time complexity of O(n^2)?",
+        "true-answer": " All of them",
+        "wrong-answers": [
+            " Bubble sort",
+            " Selection sort",
+            " None of the above",
+            " Insertion sort"
+        ]
+    },
+    {
+        "question": "\n86. Which of the following is a disadvantage of using the insertion sort algorithm?",
+        "true-answer": " It is less efficient than other sorting algorithms",
+        "wrong-answers": [
+            " It has a higher worst-case time complexity",
+            " It is not compatible with all programming languages",
+            " None of them",
+            " It requires more memory"
+        ]
+    },
+    {
+        "question": "\n87. Which of the following is a disadvantage of using the selection sort algorithm?",
+        "true-answer": " It is less efficient than other sorting algorithms",
+        "wrong-answers": [
+            " It has a higher worst-case time complexity",
+            " It is not compatible with all programming languages",
+            " None of them",
+            " It requires more memory"
+        ]
+    },
+    {
+        "question": "\n88. Which of the following is a disadvantage of using the bubble sort algorithm?",
+        "true-answer": " It is less efficient than other sorting algorithms",
+        "wrong-answers": [
+            " It has a higher worst-case time complexity",
+            " None of them",
+            " It is not compatible with all programming languages",
+            " It requires more memory"
+        ]
+    },
+    {
+        "question": "\n89. Which of the following is a sorting algorithm that builds the final sorted array one item at a time by repeatedly inserting a new element\ninto the sorted portion of the array in the correct position?",
+        "true-answer": " Insertion sort",
+        "wrong-answers": [
+            " Selection sort",
+            " Quick sort",
+            " Bubble sort",
+            " Linear sort"
+        ]
+    },
+    {
+        "question": "\n90. Which of the following is a sorting algorithm that repeatedly selects the smallest element from the unsorted portion of the list and moves\nit to the beginning of the sorted portion of the list?",
+        "true-answer": " Selection sort",
+        "wrong-answers": [
+            " Bubble sort",
+            " Quick sort",
+            " Linear sort",
+            " Insertion sort"
+        ]
+    },
+    {
+        "question": "\n91. Which of the following is a sorting algorithm that repeatedly steps through the list to be sorted, compares each pair of adjacent items\nand swaps them if they are in the wrong order?",
+        "true-answer": " Bubble sort",
+        "wrong-answers": [
+            " Insertion sort",
+            " Quick sort",
+            " Merge sort",
+            " Selection sort"
+        ]
+    },
+    {
+        "question": "\n92. Which of the following is a technique used to reduce the time complexity of the maximum subarray problem using the divide and\nconquer approach?",
+        "true-answer": " None of the them",
+        "wrong-answers": [
+            " Dynamic programming",
+            " Memoization",
+            " Hashing",
+            " Randomization"
+        ]
+    },
+    {
+        "question": "\n93. Which of the following is a disadvantage of using the decrease and conquer approach to solve the maximum subarray problem?",
+        "true-answer": " It has a higher worst-case time complexity",
+        "wrong-answers": [
+            " It requires a lot of memory",
+            " It is more difficult to implement",
+            " None of them",
+            " It is less efficient than other problem-solving strategies"
+        ]
+    },
+    {
+        "question": "\n94. Which of the following is a disadvantage of the decrease and conquer approach?",
+        "true-answer": " It can lead to stack overflow errors",
+        "wrong-answers": [
+            " It is less efficient than other problem-solving strategies",
+            " It is not effective for large datasets",
+            " None of them",
+            " It requires a lot of memory"
+        ]
+    },
+    {
+        "question": "\n95. Which of the following is an example of a problem that can be solved using the decrease and conquer approach?",
+        "true-answer": " Finding the maximum subarray in an array",
+        "wrong-answers": [
+            " Finding the shortest path between two nodes in a graph",
+            " Finding the maximum flow in a flow network",
+            " None of them",
+            " Sorting an array in ascending order"
+        ]
+    },
+    {
+        "question": "\n96. Which of the following is NOT a step in the decrease and conquer approach?",
+        "true-answer": " Solve the original problem instance",
+        "wrong-answers": [
+            " Reduce the problem to a smaller instance",
+            " Combine the solutions to the smaller instances",
+            " None of them",
+            " Solve the smaller instance"
+        ]
+    },
+    {
+        "question": "\n97. Which of the following is a problem-solving strategy that involves reducing a problem to a smaller instance of the same problem?",
+        "true-answer": " Decrease and conquer",
+        "wrong-answers": [
+            " Divide and conquer",
+            " Greedy algorithms",
+            " None of them",
+            " Dynamic programming"
+        ]
+    },
+    {
+        "question": "\n98. Which of the following is a technique used to reduce the worst-case time complexity of quick sort?",
+        "true-answer": " Randomization",
+        "wrong-answers": [
+            " Dynamic programming",
+            " Bottom-up implementation",
+            " None of them",
+            " Memoization"
+        ]
+    },
+    {
+        "question": "\n99. Which of the following is an example of a problem that can be solved using the quick sort algorithm?",
+        "true-answer": " Sorting an array in desending order",
+        "wrong-answers": [
+            " Finding the shortest path between two nodes in a graph",
+            " Finding a specific element in a sorted array",
+            " None of them",
+            " Finding the maximum flow in a flow network"
+        ]
+    },
+    {
+        "question": "\n100. Which of the following is an example of a problem that can be solved using the quick sort algorithm?",
+        "true-answer": " Sorting an array in ascending order",
+        "wrong-answers": [
+            " Finding the shortest path between two nodes in a graph",
+            " Finding a specific element in a sorted array",
+            " None of them",
+            " Finding the maximum flow in a flow network"
+        ]
+    },
+    {
+        "question": "\n101. Which of the following is a disadvantage of the bottom-up implementation of merge sort?",
+        "true-answer": " It requires more memory",
+        "wrong-answers": [
+            " It is less efficient than the recursive implementation",
+            " It has a higher worst-case time complexity",
+            " None of them",
+            " It is more difficult to implement"
+        ]
+    },
+    {
+        "question": "\n102. Which of the following is a technique used to reduce the worst-case time complexity of merge sort?",
+        "true-answer": " Bottom-up implementation",
+        "wrong-answers": [
+            " Dynamic programming",
+            " Randomization",
+            " None of them",
+            " Memoization"
+        ]
+    },
+    {
+        "question": "\n103. Which of the following is an example of a problem that can be solved using the divide and conquer approach?",
+        "true-answer": " Sorting an array in ascending order",
+        "wrong-answers": [
+            " Finding the shortest path between two nodes in a graph",
+            " Finding a specific element in a unsorted array",
+            " None of them",
+            " Finding the maximum flow in a flow network"
+        ]
+    },
+    {
+        "question": "\n104. Which of the following is an example of a problem that can be solved using the linear search algorithm?",
+        "true-answer": " Finding a specific element in an unsorted list",
+        "wrong-answers": [
+            " Finding the maximum flow in a flow network",
+            " None of them",
+            " Finding the shortest path between two nodes in a graph",
+            " Sorting an array in ascending order"
+        ]
+    },
+    {
+        "question": "\n105. Which of the following is a problem that can be solved using the linear search algorithm?",
+        "true-answer": " Finding a specific element in a unsorted array",
+        "wrong-answers": [
+            " Finding the maximum flow in a flow network",
+            " None of them",
+            " Finding the shortest path between two nodes in a graph",
+            " Sorting an array in ascending order"
+        ]
+    },
+    {
+        "question": "\n106. Choose the incorrect statement about merge sort from the following?",
+        "true-answer": " it is an adaptive algorithm",
+        "wrong-answers": [
+            "",
+            " it is not an in place algorithm",
+            " it is stable algorithm",
+            " it is a comparison based sort"
+        ]
+    },
+    {
+        "question": "\n107. Which of the following is not a variant of merge sort?",
+        "true-answer": " linear merge sort",
+        "wrong-answers": [
+            " linear merge sort",
+            " top down merge sort",
+            " in-place merge sort",
+            " bottom up merge sort"
+        ]
+    },
+    {
+        "question": "\n108. What will be the best case time complexity of merge sort?",
+        "true-answer": " O(n log n)",
+        "wrong-answers": [
+            " O(n^3)",
+            " O(n log n^2)",
+            " O(n^2)",
+            " O(n^2logn)"
+        ]
+    },
+    {
+        "question": "\n109. Which of the following method is used for sorting in merge sort?",
+        "true-answer": " merging",
+        "wrong-answers": [
+            "",
+            " exchanging",
+            " partitioning",
+            " selection"
+        ]
+    },
+    {
+        "question": "\n110. Merge sort can be implemented using O(1) auxiliary space.",
+        "true-answer": " true",
+        "wrong-answers": [
+            "",
+            " false",
+            " None of them",
+            " All of them"
+        ]
+    },
+    {
+        "question": "\n111. What is the auxiliary space complexity of merge sort?",
+        "true-answer": " O(n)",
+        "wrong-answers": [
+            " O(1)",
+            " O(n^2logn)",
+            " O(n log n)",
+            " O(log n)"
+        ]
+    },
+    {
+        "question": "\n112. What is the average case time complexity of merge sort?",
+        "true-answer": " O(n log n)",
+        "wrong-answers": [
+            " O(n log n^2)",
+            " O(n^2logn)",
+            " O(n^2)",
+            " O(n^3)"
+        ]
+    },
+    {
+        "question": "\n113. Merge sort uses which of the following technique to implement sorting?",
+        "true-answer": " divide and conquer",
+        "wrong-answers": [
+            "",
+            " dynamic programming",
+            " greedy algorithm",
+            " backtracking"
+        ]
+    },
+    {
+        "question": "\n114. What would the complexlity of Merge sort if it runnig inplace? (not using additional memory)",
+        "true-answer": " O(n^2)",
+        "wrong-answers": [
+            " O(nlogn)",
+            " O(n^3/2)",
+            " O(logn)",
+            " O(n)"
+        ]
+    },
+    {
+        "question": "\n115. What is the memory size of with n double elements array?",
+        "true-answer": " 8N+24",
+        "wrong-answers": [
+            " 2N+24",
+            " 4N+24",
+            " 4",
+            " 8"
+        ]
+    },
+    {
+        "question": "\n116. What is the memory size of with n integer elements array?",
+        "true-answer": " 4N+24",
+        "wrong-answers": [
+            " 2N+24",
+            " 8",
+            " 8N+24",
+            " 4"
+        ]
+    },
+    {
+        "question": "\n117. What is the memory size of with n character elements array?",
+        "true-answer": " 2N+24",
+        "wrong-answers": [
+            " 4",
+            " 8",
+            " 8N+24",
+            " 4N+24"
+        ]
+    },
+    {
+        "question": "\n118. How many bytes of memory use one double type variable?",
+        "true-answer": " 8",
+        "wrong-answers": [
+            " 4",
+            " 1",
+            " 24",
+            " 2"
+        ]
+    },
+    {
+        "question": "\n119. How many bytes of memory use one long type variable?",
+        "true-answer": " 8",
+        "wrong-answers": [
+            " 4",
+            " 24",
+            " 2",
+            " 1"
+        ]
+    },
+    {
+        "question": "\n120. How many bytes of memory use one float type variable?",
+        "true-answer": " 4",
+        "wrong-answers": [
+            " 8",
+            " 24",
+            " 1",
+            " 2"
+        ]
+    },
+    {
+        "question": "\n121. How many bytes of memory use one integer type variable?",
+        "true-answer": " 4",
+        "wrong-answers": [
+            " 8",
+            " 24",
+            " 1",
+            " 2"
+        ]
+    },
+    {
+        "question": "\n122. How many bytes of memory use one boolean type variable?",
+        "true-answer": " 1",
+        "wrong-answers": [
+            " 24",
+            " 4",
+            " 2",
+            " 8"
+        ]
+    },
+    {
+        "question": "\n123. How many bytes of memory use one character type variable?",
+        "true-answer": " 2",
+        "wrong-answers": [
+            " 8",
+            " 1",
+            " 4",
+            " 24"
+        ]
+    },
+    {
+        "question": "\n124. What is the complexity of an algorithm with N(N-7) confusion according to Tilde's theorem?",
+        "true-answer": " O(n^2)",
+        "wrong-answers": [
+            " O(nlogn)",
+            " O(n)",
+            " O(logn)",
+            " O(n^3)"
+        ]
+    },
+    {
+        "question": "\n125. What is the complexity of an algorithm with 5N-2 confusion according to Tilde's theorem?",
+        "true-answer": " O(n)",
+        "wrong-answers": [
+            " O(n^3)",
+            " O(logn)",
+            " O(n^2)",
+            " O(nlogn)"
+        ]
+    },
+    {
+        "question": "\n126. What is the complexity of an algorithm with 2N-5 confusion according to Tilde's theorem?",
+        "true-answer": " O(n)",
+        "wrong-answers": [
+            " O(n^3)",
+            " O(n^2)",
+            " O(nlogn)",
+            " O(logn)"
+        ]
+    },
+    {
+        "question": "\n127. What is the complexity of an algorithm with N(N-1) confusion according to Tilde's theorem?",
+        "true-answer": " O(n^2)",
+        "wrong-answers": [
+            " O(n^3)",
+            " O(logn)",
+            " O(n)",
+            " O(nlogn)"
+        ]
+    },
+    {
+        "question": "\n128. If there is one for loop in the algorithm, what will be of complexity when solving by the brute force approach?",
+        "true-answer": " O(n)",
+        "wrong-answers": [
+            " O(logn)",
+            " O(n^2)",
+            " O(nlogn)",
+            " O(n^3)"
+        ]
+    },
+    {
+        "question": "\n129. If there are two nested for loops in the algorithm, what will be of complexity when solving by the brute force approach?",
+        "true-answer": " O(n^2)",
+        "wrong-answers": [
+            " O(logn)",
+            " O(n^3)",
+            " O(nlogn)",
+            " O(n)"
+        ]
+    },
+    {
+        "question": "\n130. If there are three nested for loops in the algorithm, what will be of complexity when solving by the brute force approach?",
+        "true-answer": " O(n^3)",
+        "wrong-answers": [
+            " O(n^2)",
+            " O(logn)",
+            " O(n)",
+            " O(nlogn)"
+        ]
+    },
+    {
+        "question": "\n131. How many criterias does the algorithm have?",
+        "true-answer": " 4",
+        "wrong-answers": [
+            " 6",
+            " 3",
+            " 1",
+            " 2"
+        ]
+    },
+    {
+        "question": "\n132. What is the basic operation of the Euclidean algorithm used to find the greatest common divisor?",
+        "true-answer": " Subtraction",
+        "wrong-answers": [
+            " Addition",
+            " None of them",
+            " Powering operation",
+            " Multipiling"
+        ]
+    },
+    {
+        "question": "\n133. What is the primary difference between Merge Sort and Quick Sort?",
+        "true-answer": " Merge Sort has a better worst-case time complexity than Quick Sort",
+        "wrong-answers": [
+            " Merge Sort is a comparison-based sort, while Quick Sort is not",
+            " Merge Sort is slower than Quick Sort in practice",
+            " Merge Sort is a stable sorting algorithm, while Quick Sort is not",
+            " Merge Sort is an in-place sorting algorithm, while Quick Sort is not"
+        ]
+    },
+    {
+        "question": "\n134. Which of the following are considered system-independent parameters?",
+        "true-answer": " Algorithm, Input data",
+        "wrong-answers": [
+            " Input data, memory",
+            " Algorithm, memory",
+            " Input data, CPU",
+            " Algorithm, OS"
+        ]
+    },
+    {
+        "question": "\n135. Which of the following are considered system-dependent parameters?",
+        "true-answer": " Memory, CPU, OS",
+        "wrong-answers": [
+            " Input data, memory, CPU,",
+            " Algorithm, CPU, OS",
+            " Input data, algorithm, CPU",
+            " Algorithm, input data, memory"
+        ]
+    },
+    {
+        "question": "\n136. Which of the following are considered system-dependent parameters?",
+        "true-answer": " Memory, CPU, cache",
+        "wrong-answers": [
+            " Algorithm, input data, memory",
+            " Algorithm, CPU, OS",
+            " Input data, algorithm, CPU",
+            " Input data, memory, CPU,"
+        ]
+    },
+    {
+        "question": "\n137. Which of the following are considered system-dependent parameters?",
+        "true-answer": " Memory, CPU, interpreter",
+        "wrong-answers": [
+            " Input data, memory, CPU,",
+            " Algorithm, CPU, OS",
+            " Input data, algorithm, CPU",
+            " Algorithm, input data, memory"
+        ]
+    },
+    {
+        "question": "\n138. Which of the following are considered system-dependent parameters?",
+        "true-answer": " Memory, CPU, compiler",
+        "wrong-answers": [
+            " Algorithm, input data, memory",
+            " Input data, algorithm, CPU",
+            " Algorithm, CPU, OS",
+            " Input data, memory, CPU,"
+        ]
+    },
+    {
+        "question": "\n139. Which of the following are considered system-dependent parameters?",
+        "true-answer": " Hardware, Software, System",
+        "wrong-answers": [
+            " Hardware, Software, Algorithm",
+            " Algorithm, Software, System",
+            " Hardware, Input data, System",
+            " Hardware, Software, Input data"
+        ]
+    },
+    {
+        "question": "\n140. [3,7,9,12,16,33,42,46,50] if searched for 7 in the given array by Binary search wich index will be high value in the 2nd period?",
+        "true-answer": " 3th index",
+        "wrong-answers": [
+            " 8th index",
+            " 7th index",
+            " 0-th index",
+            " 4th index"
+        ]
+    },
+    {
+        "question": "\n141. If the array [7,10,5,3,8,4,2,9,6] is sorted by the selection sorting, at wich index will the number 5 be located after the 3rd loop?",
+        "true-answer": " 5th index",
+        "wrong-answers": [
+            " 3rd index",
+            " 1st index",
+            " 8th index",
+            " 2nd index"
+        ]
+    },
+    {
+        "question": "\n142. If the [15,12,20,3,5,18,9] array is sorted by quick soring algorithm, with wich element will swap the pivot when the 1st resurtion ends?\n(If pivot is the first element)",
+        "true-answer": " 4",
+        "wrong-answers": [
+            " 12",
+            " 9",
+            " 5",
+            " 20"
+        ]
+    },
+    {
+        "question": "\n143. If the [7,12,8,6,5,22,18] array is sorted by quick soring algorithm, with wich element will swap the pivot when the 1st resurtion ends?\n(If pivot is the first element)",
+        "true-answer": " 6",
+        "wrong-answers": [
+            " 5",
+            " 8",
+            " 18",
+            " 12"
+        ]
+    },
+    {
+        "question": "\n144. Which among the following is the best cut-off range to perform insertion sort within a quick sort?",
+        "true-answer": " N=5-20",
+        "wrong-answers": [
+            " N>50",
+            " N=20-30",
+            " N=0-5",
+            " N>30"
+        ]
+    },
+    {
+        "question": "\n145. Which is the worst method of choosing a pivot element?",
+        "true-answer": " first element as pivot",
+        "wrong-answers": [
+            "",
+            " random element as pivot",
+            " last element as pivot",
+            " median-of-three partitioning"
+        ]
+    },
+    {
+        "question": "\n146. How many sub arrays does the quick sort algorithm divide the entire array into?",
+        "true-answer": " two",
+        "wrong-answers": [
+            " four",
+            " five",
+            " one",
+            " three"
+        ]
+    },
+    {
+        "question": "\n147. Which of the following sorting algorithms is used along with quick sort to sort the sub arrays?",
+        "true-answer": " Insertion sort",
+        "wrong-answers": [
+            " Shell sort",
+            " Bubble sort",
+            " Selection sort",
+            " Merge sort"
+        ]
+    },
+    {
+        "question": "\n148. Which is the safest method to choose a pivot element?",
+        "true-answer": " choosing a random element as pivot",
+        "wrong-answers": [
+            "",
+            " choosing the last element as pivot",
+            " choosing the first element as pivot",
+            " median-of-three partitioning method"
+        ]
+    },
+    {
+        "question": "\n149. Find the pivot element from the given input using median-of-three partitioning method. 8, 1, 4, 9, 6, 3, 5, 2, 7, 0.",
+        "true-answer": " 6",
+        "wrong-answers": [
+            " 0",
+            " 8",
+            " 7",
+            " 9"
+        ]
+    },
+    {
+        "question": "\n150. Which of the following methods is the most effective for picking the pivot element?",
+        "true-answer": " median-of-three partitioning",
+        "wrong-answers": [
+            "",
+            " first element",
+            " random element",
+            " last element"
+        ]
+    },
+    {
+        "question": "\n151. Quick sort follows Divide-and-Conquer strategy.",
+        "true-answer": " True",
+        "wrong-answers": [
+            "",
+            " None of them",
+            " False",
+            " All of them"
+        ]
+    },
+    {
+        "question": "\n152. What is another sorting algorithm that takes its main idea from the Insertion sort ?",
+        "true-answer": " Shell sort",
+        "wrong-answers": [
+            " Merge sort",
+            " Selection sor",
+            " Quick sort",
+            " Buble sort"
+        ]
+    },
+    {
+        "question": "\n153. What condition must be met for the minimum number of loops in binary search algorithm?",
+        "true-answer": " The searched element must be located at the middle index of the array",
+        "wrong-answers": [
+            " He\u00e7 biri",
+            " The searched element must not exist in the array",
+            " The searched element must be located at the first index of the array",
+            " The searched element must be located at the last index of the array"
+        ]
+    },
+    {
+        "question": "\n154. What condition must be met for the maximum number of loops in binary search algorithm?",
+        "true-answer": " The searched element must not exist in the array",
+        "wrong-answers": [
+            " None of them",
+            " The searched element must be located at the first index of the array",
+            " The searched element must be located at the middle index of the array",
+            " None of them"
+        ]
+    },
+    {
+        "question": "\n155. [3,7,9,12,16,33,42,46,50] if searched for 46 in the given array by Binary search wich index will be low value in the 2nd period?",
+        "true-answer": " 5th index",
+        "wrong-answers": [
+            " 3th index",
+            " 8th index",
+            " 4th index",
+            " 7th index"
+        ]
+    },
+    {
+        "question": "\n156. [3,7,9,12,16,33,42,46,50] if searched for 46 in the given array by Binary search wich index will be high value in the 2nd period?",
+        "true-answer": " 8th index",
+        "wrong-answers": [
+            " 7th index",
+            " 3th index",
+            " 4th index",
+            " 5th index"
+        ]
+    },
+    {
+        "question": "\n157. [3,5,7,12,18,23,56,58] if searched for 56 in the given array by Binary search wich index will be low value in the 2nd period?",
+        "true-answer": " 5th index",
+        "wrong-answers": [
+            " 4th index",
+            " 8th index",
+            " 3th index",
+            " 7th index"
+        ]
+    },
+    {
+        "question": "\n158. [3,5,7,12,18,23,56,58] if searched for 56 in the given array by Binary search wich index will be high value in the 2nd period?",
+        "true-answer": " 8th index",
+        "wrong-answers": [
+            " 7th index",
+            " 5th index",
+            " 4th index",
+            " 3th index"
+        ]
+    },
+    {
+        "question": "\n159. [3,5,7,12,18,23,56,58] if searched for 5 in the given array by Binary search wich index will be high value in the 2nd period?",
+        "true-answer": " 3th index",
+        "wrong-answers": [
+            " 8th index",
+            " 4th index",
+            " 0-th index",
+            " 7th index"
+        ]
+    },
+    {
+        "question": "\n160. What is the time complexity of binary search with iteration?",
+        "true-answer": " O(logn)",
+        "wrong-answers": [
+            " O(n^2)",
+            " O(n^2logn)",
+            " O(nlogn)",
+            " O(n)"
+        ]
+    },
+    {
+        "question": "\n161. Given an array arr = {45,77,89,90,94,99,100} and key = 100; What are the mid values(corresponding array elements) generated in the\nfirst and second iterations if use Binary search?",
+        "true-answer": " 90 and 99",
+        "wrong-answers": [
+            " 45 and 100",
+            " 89 and 94",
+            " 90 and 100",
+            " 94 and 99"
+        ]
+    },
+    {
+        "question": "\n162. Given an array arr = {5,6,77,88,99} and key = 88; How many iterations are done until the element is found if use Binary search?",
+        "true-answer": " 2",
+        "wrong-answers": [
+            " 3",
+            " 4",
+            " 1",
+            " 5"
+        ]
+    },
+    {
+        "question": "\n163. Binary Search can be categorized into which of the following?",
+        "true-answer": " Divide and conquer",
+        "wrong-answers": [
+            "",
+            " Brute Force technique",
+            " Greedy algorithm",
+            " Dynamic programming"
+        ]
+    },
+    {
+        "question": "\n164. Which of the following is not an application of binary search?",
+        "true-answer": " To search in unordered list",
+        "wrong-answers": [
+            "",
+            " Debugging",
+            " To find the lower/upper bound in an ordered sequence",
+            " Union of intervals"
+        ]
+    },
+    {
+        "question": "\n165. What is the average case time complexity of binary search using recursion?",
+        "true-answer": " O(logn)",
+        "wrong-answers": [
+            " O(nlogn)",
+            " O(n^2logn)",
+            " O(n^2)",
+            " O(n)"
+        ]
+    },
+    {
+        "question": "\n166. What is the worst case complexity of binary search using recursion?",
+        "true-answer": " O(logn)",
+        "wrong-answers": [
+            " O(nlogn)",
+            " O(n^2logn)",
+            " O(n^2)",
+            " O(n)"
+        ]
+    },
+    {
+        "question": "\n167. Given an array arr = {45,77,89,90,94,99,100} and key = 99; what are the mid values(corresponding array elements) in the first and\nsecond levels of recursion in Binary search?",
+        "true-answer": " 90 and 99",
+        "wrong-answers": [
+            " 89 and 94",
+            " 90 and 94",
+            " 89 and 99",
+            " 45 and 100"
+        ]
+    },
+    {
+        "question": "\n168. Given an input arr = {2,5,7,99,899}; key = 899; What is the level of recursion in Binary search?",
+        "true-answer": " 3",
+        "wrong-answers": [
+            " 2",
+            " 4",
+            " 1",
+            " 5"
+        ]
+    },
+    {
+        "question": "\n169. What is the best-case time complexity of Merge Sort?",
+        "true-answer": " O(1/2nlogn)",
+        "wrong-answers": [
+            " O(n^2)",
+            " O(1/2logn)",
+            " O(n)",
+            " O(n^3/2)"
+        ]
+    },
+    {
+        "question": "\n170. What is the avarage-case time complexity of Merge Sort?",
+        "true-answer": " O(nlogn)",
+        "wrong-answers": [
+            " O(n^3/2)",
+            " O(n^2)",
+            " O(logn)",
+            " O(n)"
+        ]
+    },
+    {
+        "question": "\n171. What is the worst-case time complexity of Merge Sort?",
+        "true-answer": " O(nlogn)",
+        "wrong-answers": [
+            " O(n^2)",
+            " O(n)",
+            " O(logn)",
+            " O(n^3/2)"
+        ]
+    },
+    {
+        "question": "\n172. Which of the following stable sorting algorithm takes the least time when applied to an almost sorted array?",
+        "true-answer": " Merge sort",
+        "wrong-answers": [
+            "",
+            " Selection sort",
+            " Quick sort",
+            " Insertion sort"
+        ]
+    },
+    {
+        "question": "\n173. Which of the following is not a stable sorting algorithm?",
+        "true-answer": " Quick sort",
+        "wrong-answers": [
+            "",
+            " Merge sort",
+            " Cocktail sort",
+            " Bubble sort"
+        ]
+    },
+    {
+        "question": "\n174. Which of the following is not in place sorting algorithm by default?",
+        "true-answer": " merge sort",
+        "wrong-answers": [
+            " Selection sort",
+            " heap sort",
+            " quick sort",
+            " insertion sort"
+        ]
+    },
+    {
+        "question": "\n175. Given an array of the following elements 81,94,11,96,12,35,17,95,28,58,41,75,15. What will be the sorted order after 5-sort if use Shell\nsort?",
+        "true-answer": " 35,17,11,28,12,41,75,15,96,58,81,94,95",
+        "wrong-answers": [
+            " 12,11,15,17,81,94,85,96,28,35,41,58,75",
+            " 15,12,11,35,41,58,17,94,75,81,96,95,28",
+            " 28,12,11,35,41,58,17,94,75,81,96,95,15",
+            " 11,12,15,17,28,35,41,58,75,81,94,95,96"
+        ]
+    },
+    {
+        "question": "\n176. Why is Shell sort called as a generalization of Insertion sort?",
+        "true-answer": " Shell sort allows an exchange of far items whereas insertion sort moves elements by one position",
+        "wrong-answers": [
+            "",
+            " Shell sort performs internal sorting",
+            " Insertion is more efficient than any other algorithms",
+            " Improved lower bound analysis"
+        ]
+    },
+    {
+        "question": "\n177. Which of the following sorting algorithms is closely related to shell sort?",
+        "true-answer": " Insertion sort",
+        "wrong-answers": [
+            " Selection sort",
+            " Bucket sort",
+            " Merge sort",
+            " Selection sort"
+        ]
+    },
+    {
+        "question": "\n178. Shell sort algorithm is the first algorithm to break the quadratic time barrier.",
+        "true-answer": " True",
+        "wrong-answers": [
+            "",
+            " False",
+            " All of them",
+            " None of them"
+        ]
+    },
+    {
+        "question": "\n179. Who invented the shell sort algorithm?",
+        "true-answer": " Donald Shell",
+        "wrong-answers": [
+            "",
+            " Alan Shell",
+            " Tony Hoare",
+            " John Von Neumann"
+        ]
+    },
+    {
+        "question": "\n180. The worst case running time of shell sort, using Shell\u2019s increments is?",
+        "true-answer": " O(n^2)",
+        "wrong-answers": [
+            " O(nlogn)",
+            " O(logn)",
+            " O(n)",
+            " O(n^3)"
+        ]
+    },
+    {
+        "question": "\n181. What is the other name for a shell sort algorithm?",
+        "true-answer": " Diminishing increment sort",
+        "wrong-answers": [
+            " Selection sort",
+            " Bubble sort",
+            " Diminishing decrement sort",
+            " Insertion sort"
+        ]
+    },
+    {
+        "question": "\n182. When h=3, the [5,12,11,10,6,7,3,15,8] array is sorted by the Shell sorting at which index will the number 3 be located after the 3th loop?",
+        "true-answer": " 0 th index",
+        "wrong-answers": [
+            " 5 th index",
+            " 2 st index",
+            " 4 rd index",
+            " 7 th index"
+        ]
+    },
+    {
+        "question": "\n183. When h=3, the [5,12,11,10,6,7,3,15,8] array is sorted by the Shell sorting at which index will the number 3 be located after the 4th loop?",
+        "true-answer": " 0 th index",
+        "wrong-answers": [
+            " 6 th index",
+            " 3 rd index",
+            " 5 th index",
+            " 1 st index"
+        ]
+    },
+    {
+        "question": "\n184. When h=4, the [5,12,11,10,6,7,3,15,8] array is sorted by the Shell sorting at which index will the number 3 be located after the 3rd loop?",
+        "true-answer": " 2nd index",
+        "wrong-answers": [
+            " 1st index",
+            " 8th index",
+            " 3rd index",
+            " 5th index"
+        ]
+    },
+    {
+        "question": "\n185. What is the worst case complexity of Shell sort algorithm h=(3x+1) model?",
+        "true-answer": " O(n^3/2)",
+        "wrong-answers": [
+            " O(n)",
+            " O(nlogn)",
+            " O(n^2)",
+            " O(logn)"
+        ]
+    },
+    {
+        "question": "\n186. If the[15,12,20,3,5,18,9] array is sorted by the insertion sort, mark the already sorted part of array after 3rd loop.",
+        "true-answer": " [3,12,15,20]",
+        "wrong-answers": [
+            " [3,5,12,15]",
+            " [5,12,15]",
+            " [15,12,5]",
+            " [3,5,12,15,20]"
+        ]
+    },
+    {
+        "question": "\n187. What is an in-place sorting algorithm?",
+        "true-answer": " It needs O(1) or O(logn) memory to create auxiliary locations",
+        "wrong-answers": [
+            "",
+            " It requires additional space",
+            " It requires additional storage",
+            " The input is already sorted and in-place"
+        ]
+    },
+    {
+        "question": "\n188. Which of the following is good for sorting arrays having less than 100 elements?",
+        "true-answer": " Insertion Sort",
+        "wrong-answers": [
+            " Merge Sort",
+            " Quick Sort",
+            " Timsort",
+            " Selection Sort"
+        ]
+    },
+    {
+        "question": "\n189. Which of the following is correct with regard to insertion sort?",
+        "true-answer": " insertion sort is stable and it sorts In-place",
+        "wrong-answers": [
+            "",
+            " insertion sort is unstable and it sorts In-place",
+            " insertion sort is stable and it does not sort In-place",
+            " insertion sort is unstable and it does not sort In-place"
+        ]
+    },
+    {
+        "question": "\n190. Which of the following sorting algorithm is best suited if the elements are already sorted?",
+        "true-answer": " Insertion Sort",
+        "wrong-answers": [
+            " Merge Sort",
+            " Heap Sort",
+            " Timsort",
+            " Quick Sort"
+        ]
+    },
+    {
+        "question": "\n191. Which of the following examples represent the worst case input for an insertion sort?",
+        "true-answer": " array sorted in reverse order",
+        "wrong-answers": [
+            " array in sorted order",
+            " large array",
+            " small array",
+            " normal unsorted array"
+        ]
+    },
+    {
+        "question": "\n192. For the best case input, the running time of an insertion sort algorithm is?",
+        "true-answer": " Linear",
+        "wrong-answers": [
+            " Binary",
+            " Depends on the input",
+            " Doesn't depend on the input",
+            " Quadratic"
+        ]
+    },
+    {
+        "question": "\n193. Which of the following sorting algorithms is the fastest for sorting small arrays?",
+        "true-answer": " Insertion sort",
+        "wrong-answers": [
+            " Quick sort",
+            " Heap sort",
+            " Merge sort",
+            " Shell sort"
+        ]
+    },
+    {
+        "question": "\n194. What are the basic loops required to perform an insertion sort?",
+        "true-answer": " for and while",
+        "wrong-answers": [
+            " do and while",
+            " for and if",
+            " if and while",
+            " if and else"
+        ]
+    },
+    {
+        "question": "\n195. For the following question, how will the array elements look like after second pass if use insertion sort? 34, 8, 64, 51, 32, 21",
+        "true-answer": " 8, 34, 64, 51, 32, 21",
+        "wrong-answers": [
+            " 8, 34, 51, 64, 32, 21",
+            " 8, 21, 32, 34, 51, 64",
+            " 8, 21, 32, 34, 64, 51",
+            " 8, 32, 34, 51, 64, 21"
+        ]
+    },
+    {
+        "question": "\n196. What will be the number of passes to sort the elements using insertion sort?",
+        "true-answer": " 5",
+        "wrong-answers": [
+            " 6",
+            " 1",
+            " 4",
+            " 7"
+        ]
+    },
+    {
+        "question": "\n197. What is the running time of an insertion sort algorithm if the input is pre-sorted?",
+        "true-answer": " O(N)",
+        "wrong-answers": [
+            " O(N^2)",
+            " O(M log N)",
+            " O(N^3)",
+            " O(N log N)"
+        ]
+    },
+    {
+        "question": "\n198. What is the average case running time of an insertion sort algorithm?",
+        "true-answer": " O(N^2)",
+        "wrong-answers": [
+            " O(N)",
+            " O(log N)",
+            " O(N^3)",
+            " O(N log N)"
+        ]
+    },
+    {
+        "question": "\n199. How many passes does an insertion sort algorithm consist of?",
+        "true-answer": " N-1",
+        "wrong-answers": [
+            " N+1",
+            " N",
+            " N^3",
+            " N^2"
+        ]
+    },
+    {
+        "question": "\n200. If the array[7,10,5,3,8,4,2,9,6] is sorted by the insertion sorting, at wich index will the number 4 be located after the 3rd loop?",
+        "true-answer": " 5th index",
+        "wrong-answers": [
+            " 3rd index",
+            " 8th index",
+            " 1st index",
+            " 2nd index"
+        ]
+    },
+    {
+        "question": "\n201. If the [7,12,8,6,5,22,18] array is sorted by the insertion sort, mark the already sorted part of array after 4th loop.",
+        "true-answer": " [5,6,7,8,12]",
+        "wrong-answers": [
+            " [5,6,7,12]",
+            " [5,6,7,8,18]",
+            " [5,6,7,18]",
+            " [6,7,8,12]"
+        ]
+    },
+    {
+        "question": "\n202. If the array [7,10,5,3,8,4,2,9,6] is sorted by the selection sorting, at wich index will the number 10 be located after the 2nd loop?",
+        "true-answer": " 3rd index",
+        "wrong-answers": [
+            " 5th index",
+            " 8th index",
+            " 1st index",
+            " 2nd index"
+        ]
+    },
+    {
+        "question": "\n203. What is the best case complexity of selection sort?",
+        "true-answer": " O(n^2)",
+        "wrong-answers": [
+            " O(n)",
+            " O(nlogn)",
+            " O(n^3)",
+            " O(logn)"
+        ]
+    },
+    {
+        "question": "\n204. The given array is arr = {3,4,5,2,1}. The number of iterations in bubble sort and selection sort respectively are __________",
+        "true-answer": " 5 and 4",
+        "wrong-answers": [
+            " 6 and 4",
+            " 2 and 4",
+            " 2 and 5",
+            " 4 and 5"
+        ]
+    },
+    {
+        "question": "\n205. What is the disadvantage of selection sort?",
+        "true-answer": " It is not scalable",
+        "wrong-answers": [
+            "",
+            " It requires auxiliary memory",
+            " It can be used for small keys",
+            " It takes linear time to sort the elements"
+        ]
+    },
+    {
+        "question": "\n206. What is the average case complexity of selection sort?",
+        "true-answer": " O(n^2)",
+        "wrong-answers": [
+            " O(n)",
+            " O(nlogn)",
+            " O(n^3)",
+            " O(logn)"
+        ]
+    },
+    {
+        "question": "\n207. What is the advantage of selection sort over other sorting techniques?",
+        "true-answer": " It requires no additional storage space",
+        "wrong-answers": [
+            "",
+            " It is scalable",
+            " It works best for inputs which are already sorted",
+            " It is faster than any other sorting technique"
+        ]
+    },
+    {
+        "question": "\n208. What is the worst case complexity of selection sort?",
+        "true-answer": " O(n^2)",
+        "wrong-answers": [
+            " O(n)",
+            " O(nlogn)",
+            " O(n^3)",
+            " O(logn)"
+        ]
+    },
+    {
+        "question": "\n209. In the following scenarios, when will you use selection sort?",
+        "true-answer": " Large values need to be sorted with small keys",
+        "wrong-answers": [
+            " Small values need to be sorted with large keys",
+            " The input is already sorted",
+            " The input is pre-sorted",
+            " A large file has to be sorted"
+        ]
+    },
+    {
+        "question": "\n210. Consider the following statements. S1. Kruskal\u2019s algorithm might produce a non-minimal spanning tree. S2. Kruskal\u2019s algorithm can\nefficiently implemented using the disjoint-set data structure.",
+        "true-answer": " S2 is true but S1 is false",
+        "wrong-answers": [
+            "",
+            " Both S1 and S2 are true",
+            " S1 is true but S2 is false",
+            " Both S1 and S2 are false"
+        ]
+    },
+    {
+        "question": "\n211. Which of the following is false about the Kruskal\u2019s algorithm?",
+        "true-answer": " It can accept cycles in the MST",
+        "wrong-answers": [
+            "",
+            " It uses union-find data structure",
+            " It constructs MST by selecting edges in increasing order of their weights",
+            " It is a greedy algorithm"
+        ]
+    },
+    {
+        "question": "\n212. Which of the following is true?",
+        "true-answer": " Kruskal\u2019s algorithm can also run on the disconnected graphs",
+        "wrong-answers": [
+            "",
+            " Prim\u2019s algorithm can also be used for disconnected graphs",
+            " In Kruskal\u2019s sort edges are added to MST in decreasing order of their weights",
+            " Prim\u2019s algorithm is simpler than Kruskal\u2019s algorithm"
+        ]
+    },
+    {
+        "question": "\n213. Which of the following edges form minimum spanning tree on the graph using kruskals algorithm?",
+        "true-answer": " (B-E)(G-E)(E-F)(D-F)",
+        "wrong-answers": [
+            "",
+            " (B-E)(G-E)(E-F)(D-F)(D-G)",
+            " (B-E)(G-E)(E-F)(D-E)",
+            " (B-E)(G-E)(E-F)(B-G)(D-F)"
+        ]
+    },
+    {
+        "question": "\n214. Consider the following graph. Using Kruskal\u2019s algorithm, which edge will be selected first?",
+        "true-answer": " BE",
+        "wrong-answers": [
+            " GF",
+            " DG",
+            " BG",
+            " DE"
+        ]
+    },
+    {
+        "question": "\n215. What is the time complexity of Kruskal\u2019s algorithm?",
+        "true-answer": " O(E log V)",
+        "wrong-answers": [
+            " O(E^2)",
+            " O(log V)",
+            " O(V^3)",
+            " O(V log E)"
+        ]
+    },
+    {
+        "question": "\n216. Consider the given graph. What is the weight of the minimum spanning tree using the Kruskal\u2019s algorithm?",
+        "true-answer": " 19",
+        "wrong-answers": [
+            " 29",
+            " 23",
+            " 24",
+            " 15"
+        ]
+    },
+    {
+        "question": "\n217. Kruskal\u2019s algorithm is a ______",
+        "true-answer": " greedy algorithm",
+        "wrong-answers": [
+            "",
+            " approximation algorithm",
+            " divide and conquer algorithm",
+            " dynamic programming algorithm"
+        ]
+    },
+    {
+        "question": "\n218. Which of the following is false about Prim\u2019s algorithm?",
+        "true-answer": " It constructs MST by selecting edges in increasing order of their weights",
+        "wrong-answers": [
+            "",
+            " It can be implemented using the Fibonacci heap",
+            " It is a greedy algorithm",
+            " It never accepts cycles in the MST"
+        ]
+    },
+    {
+        "question": "\n219. Prim\u2019s algorithm is also known as __________",
+        "true-answer": " DJP Algorithm",
+        "wrong-answers": [
+            " Dijkstra\u2013Scholten algorithm",
+            " Bellman-Ford algorithm",
+            " Floyd\u2013Warshall algorithm",
+            " Boruvka\u2019s algorithm"
+        ]
+    },
+    {
+        "question": "\n220. Consider the graph shown below. Which of the following edges form the MST of the given graph using Prim\u2019a algorithm, starting from\nvertex 4.",
+        "true-answer": " (4-3)(3-2)(2-1)(1-5)",
+        "wrong-answers": [
+            " (4-3)(3-5)(5-1)(1-2)",
+            " (4-3)(3-5)(5-2)(1-5)",
+            " (4-3)(5-3)(2-5)(1-2)",
+            " (4-3)(5-3)(2-3)(1-2)"
+        ]
+    },
+    {
+        "question": "\n221. Prim\u2019s algorithm is a ______",
+        "true-answer": " Greedy algorithm",
+        "wrong-answers": [
+            "",
+            " Divide and conquer algorithm",
+            " Dynamic Programming",
+            " Approximation algorithm"
+        ]
+    },
+    {
+        "question": "\n222. Worst case is the worst case time complexity of Prim\u2019s algorithm if adjacency matrix is used?",
+        "true-answer": " O(V^2)",
+        "wrong-answers": [
+            " O(log V)",
+            " O(V^3)",
+            " O(E^2)",
+            " O(V log E)"
+        ]
+    },
+    {
+        "question": "\n223. Consider the given graph. What is the weight of the minimum spanning tree using the Prim\u2019s algorithm,starting from vertex a?",
+        "true-answer": " 27",
+        "wrong-answers": [
+            " 23",
+            " 11",
+            " 24",
+            " 28"
+        ]
+    },
+    {
+        "question": "\n224. Kruskal\u2019s algorithm is used to ______",
+        "true-answer": " find minimum spanning tree",
+        "wrong-answers": [
+            "",
+            " traverse the graph",
+            " find single source shortest path",
+            " find all pair shortest path algorithm"
+        ]
+    },
+    {
+        "question": "\n225. Dijkstra\u2019s Algorithm is the prime example for ___________",
+        "true-answer": " Greedy algorithm",
+        "wrong-answers": [
+            "",
+            " Back tracking",
+            " Branch and bound",
+            " Dynamic programming"
+        ]
+    },
+    {
+        "question": "\n226. Consider the following graph. If b is the source vertex, what is the minimum cost to reach f vertex?",
+        "true-answer": " 6",
+        "wrong-answers": [
+            " 5",
+            " 9",
+            " 8",
+            " 4"
+        ]
+    },
+    {
+        "question": "\n227. Dijkstra\u2019s Algorithm cannot be applied on ______________",
+        "true-answer": " Graphs having negative weight function",
+        "wrong-answers": [
+            " Weighted graphs",
+            " Directed and weighted graphs",
+            " Unweighted graphs",
+            " Undirected and unweighted graphs"
+        ]
+    },
+    {
+        "question": "\n228. What is the time complexity of Dijikstra\u2019s algorithm?",
+        "true-answer": " O(n^2)",
+        "wrong-answers": [
+            " O(N^3/2)",
+            " O(logn)",
+            " O(n^3)",
+            " O(n)"
+        ]
+    },
+    {
+        "question": "\n229. Dijkstra\u2019s Algorithm is used to solve _____________ problems.",
+        "true-answer": " Single source shortest path",
+        "wrong-answers": [
+            " All pair shortest path",
+            " Searching",
+            " Network flow",
+            " Sorting"
+        ]
+    },
+    {
+        "question": "\n230. Which of the following is false?",
+        "true-answer": " Removing one edge from the spanning tree will not make the graph disconnected",
+        "wrong-answers": [
+            "",
+            " MST have n \u2013 1 edges if the graph has n edges",
+            " The spanning trees do not have any cycles",
+            " Edge e belonging to a cut of the graph if has the weight smaller than any other edge in the same cut, then the edge e is present in all the MSTs of the graph"
+        ]
+    },
+    {
+        "question": "\n231. If all the weights of the graph are positive, then the minimum spanning tree of the graph is a minimum cost",
+        "true-answer": " True",
+        "wrong-answers": [
+            "",
+            " None of them",
+            " False",
+            " All of them"
+        ]
+    },
+    {
+        "question": "\n232. Consider a complete graph G with 4 vertices. The graph G has ____ spanning trees.",
+        "true-answer": " 16",
+        "wrong-answers": [
+            " 15",
+            " 8",
+            " 13",
+            " 2"
+        ]
+    },
+    {
+        "question": "\n233. Which of the following is false in the case of a spanning tree of a graph G?",
+        "true-answer": " It can be either cyclic or acyclic",
+        "wrong-answers": [
+            "",
+            " It is tree that spans G",
+            " It is a subgraph of the G",
+            " It includes every vertex of the G"
+        ]
+    },
+    {
+        "question": "\n234. What is the basic operation of the Euclidean algorithm used to find the greatest common divisor?",
+        "true-answer": " Dividing",
+        "wrong-answers": [
+            " None of them",
+            " Multipiling",
+            " Addition",
+            " Powering operation"
+        ]
+    },
+    {
+        "question": "\n235. If Hibbard increments (h1= 1, h2= 3, h3= 7, \u2026, hk = 2k\u20131) are used in a Shell sort implementation, then the best case time complexity\nwill be ________",
+        "true-answer": " O(n log n)",
+        "wrong-answers": [
+            " O(n log n^2)",
+            " O(n^2)",
+            " O(n^2logn)",
+            " O(n^3)"
+        ]
+    },
+    {
+        "question": "\n236. Shell sort is an improvement on ____",
+        "true-answer": " insertion sort",
+        "wrong-answers": [
+            " Merge sort",
+            " binary tree sort",
+            " selection sort",
+            " quick sort"
+        ]
+    },
+    {
+        "question": "\n237. Shell sort is applied on the elements 27 59 49 37 15 90 81 39 and the chosen decreasing sequence of increments is (5,3,1). The result\nafter the first iteration will be...",
+        "true-answer": " 27 59 39 37 15 90 81 49",
+        "wrong-answers": [
+            " 27 59 37 49 15 90 81 39",
+            " 15 59 49 39 27 90 81 37",
+            " 15 59 49 37 27 90 81 39",
+            " 27 59 49 37 15 90 81 39"
+        ]
+    },
+    {
+        "question": "\n238. Statement 1: Shell sort is a stable sorting algorithm. Statement 2: Shell sort is an in-place sorting algorithm.",
+        "true-answer": " Statement 2 is true but statement 1 is false",
+        "wrong-answers": [
+            "",
+            " Statement 2 is false but statement 1 is true",
+            " Both statements are false",
+            " Both statements are true"
+        ]
+    },
+    {
+        "question": "\n239. What is the worst case analysis of shell sort using Shell\u2019s increments?",
+        "true-answer": " O(n^2)",
+        "wrong-answers": [
+            " O(logn)",
+            " O(N^3/2)",
+            " O(n)",
+            " O(n^1/2)"
+        ]
+    },
+    {
+        "question": "\n240. What is the general form of Shell\u2019s increments?",
+        "true-answer": " 1,3,7,\u2026.,2k-1",
+        "wrong-answers": [
+            "",
+            " 1,2,3,\u2026,n",
+            " 1,3,5,7,\u2026.,k-1",
+            " 1,5,10,15,\u2026, k-1"
+        ]
+    },
+    {
+        "question": "\n241. What is the worst case running time of shell sort using Hibbard\u2019s increments?",
+        "true-answer": " O(N^3/2)",
+        "wrong-answers": [
+            " O(logn)",
+            " O(n^1/2)",
+            " O(n^2)",
+            " O(n)"
+        ]
+    },
+    {
+        "question": "\n242. Using what formula can a parent node be located in an array?",
+        "true-answer": " (i-1)/2",
+        "wrong-answers": [
+            " i/2",
+            " 2i/3",
+            " (i+1)/2",
+            " 2i/5"
+        ]
+    },
+    {
+        "question": "\n243. How many types of insertion are performed in a binary tree?",
+        "true-answer": " 2",
+        "wrong-answers": [
+            " 1",
+            " 0",
+            " 3",
+            " 4"
+        ]
+    },
+    {
+        "question": "\n244. What is the traversal strategy used in the binary tree?",
+        "true-answer": " breadth-first traversal",
+        "wrong-answers": [
+            "",
+            " random traversal",
+            " depth-first traversal",
+            " Priority traversal"
+        ]
+    },
+    {
+        "question": "\n245. How many common operations are performed in a binary tree?",
+        "true-answer": " 3",
+        "wrong-answers": [
+            " 6",
+            " 1",
+            " 2",
+            " 4"
+        ]
+    },
+    {
+        "question": "\n246. Which of the following properties are obeyed by all three tree \u2013 traversals?",
+        "true-answer": " Left subtrees are visited before right subtrees",
+        "wrong-answers": [
+            "",
+            " Root node is visited before right subtree",
+            " Right subtrees are visited before left subtrees",
+            " Root node is visited before left subtree"
+        ]
+    },
+    {
+        "question": "\n247. What is the maximum number of children that a binary tree node can have?",
+        "true-answer": " 2",
+        "wrong-answers": [
+            " 1",
+            " 0",
+            " 4",
+            " 3"
+        ]
+    },
+    {
+        "question": "\n248. The minimum height of self balancing binary search tree with n nodes is _____",
+        "true-answer": " log2(n)",
+        "wrong-answers": [
+            " n",
+            " 2n+1",
+            " 2n-1",
+            " n-1"
+        ]
+    },
+    {
+        "question": "\n249. Which of the following is an advantage of balanced binary search tree, like AVL tree, compared to binary heap?",
+        "true-answer": " insertion takes less time",
+        "wrong-answers": [
+            "",
+            " deletion takes less time",
+            " searching takes less time",
+            " construction of the tree takes less time than binary heap"
+        ]
+    },
+    {
+        "question": "\n250. Two balanced binary trees are given with m and n elements respectively. They can be merged into a balanced binary search tree in ____\ntime.",
+        "true-answer": " O(m+n)",
+        "wrong-answers": [
+            " O(m)",
+            " O(mn)",
+            " O(nlogm)",
+            " O(mlogn)"
+        ]
+    },
+    {
+        "question": "\n251. Balanced binary tree with n items allows the lookup of an item in ____ worst-case time.",
+        "true-answer": " O(log n)",
+        "wrong-answers": [
+            " O(nlogn)",
+            " O(n)",
+            " O(1)",
+            " O(n^2lg(n))"
+        ]
+    },
+    {
+        "question": "\n252. A binary tree is balanced if the difference between left and right subtree of every node is not more than ____",
+        "true-answer": " 1",
+        "wrong-answers": [
+            " 4",
+            " 3",
+            " 2",
+            " 0"
+        ]
+    },
+    {
+        "question": "\n253. The balance factor of a node in a binary tree is defined as _____",
+        "true-answer": " height of left subtree minus height of right subtree",
+        "wrong-answers": [
+            " height of right subtree minus one",
+            " All of them",
+            " addition of heights of left and right subtrees",
+            " height of right subtree minus height of left subtree"
+        ]
+    },
+    {
+        "question": "\n254. What will be the height of a balanced full binary tree with 8 leaves?",
+        "true-answer": " 4",
+        "wrong-answers": [
+            " 5",
+            " 6",
+            " 3",
+            " 8"
+        ]
+    },
+    {
+        "question": "\n255. A binary search tree is generated by inserting in order the following integers: 50, 15, 62, 5, 20, 58, 91, 3, 8, 37, 60, 24. The number of\nthe node in the left sub-tree and right sub-tree of the root, respectively, is...",
+        "true-answer": " (7, 4)",
+        "wrong-answers": [
+            " (4, 7)",
+            " (3, 7)",
+            " (3, 8)",
+            " (8, 3)"
+        ]
+    },
+    {
+        "question": "\n256. A threaded binary tree is a binary tree in which every node that does not have right child has a thread to its",
+        "true-answer": " In-order successor",
+        "wrong-answers": [
+            " Post-order predecessor",
+            " In-order predecessor",
+            " Pre-order successor",
+            " Post-order successor"
+        ]
+    },
+    {
+        "question": "\n257. The minimum number of elements in a heap of height h is",
+        "true-answer": " 2h",
+        "wrong-answers": [
+            " 2h-1",
+            " h-1",
+            " 2h+1",
+            " 2h -1"
+        ]
+    },
+    {
+        "question": "\n258. If n elements are sorted in a balanced binary search tree. What would be the asymptotic complexity to search a key in the tree?",
+        "true-answer": " O(logn)",
+        "wrong-answers": [
+            " O(n^2lg(n))",
+            " O(n)",
+            " O(1)",
+            " O(nlogn)"
+        ]
+    },
+    {
+        "question": "\n259. If n elements are sorted in a binary search tree. What would be the asymptotic complexity to search a key in the tree?",
+        "true-answer": " O(n)",
+        "wrong-answers": [
+            " O(nlogn)",
+            " O(n^2lg(n))",
+            " O(1)",
+            " O(logn)"
+        ]
+    },
+    {
+        "question": "\n260. If n numbers are to be sorted in ascending order in O(nlogn) time, which of the following tree can be used",
+        "true-answer": " Min-heap",
+        "wrong-answers": [
+            "",
+            " Binary tree",
+            " Max-heap",
+            " Binary search tree"
+        ]
+    },
+    {
+        "question": "\n261. When a binary tree is converted in to an extended binary tree, all the nodes of a binary tree in the external node becomes",
+        "true-answer": " Internal nodes",
+        "wrong-answers": [
+            " All",
+            " Internal nodes",
+            " Root nodes",
+            " None"
+        ]
+    },
+    {
+        "question": "\n262. the run time for traversing all the nodes of a binary search tree with n nodes and printing them in an order is",
+        "true-answer": " O(n)",
+        "wrong-answers": [
+            " O(n^2lg(n))",
+            " O(nlg(n))",
+            " O(log(n))",
+            " O(n^2)"
+        ]
+    },
+    {
+        "question": "\n263. In a full binary tree, every internal node has exactly two children. A full binary tree with 2n+1 nodes contains",
+        "true-answer": " n internal nodes",
+        "wrong-answers": [
+            " n-1 leaf nodes",
+            " n leaf node",
+            " 2n leaf nodes",
+            " n-1 internal nodes"
+        ]
+    },
+    {
+        "question": "\n264. If a node having two children is to be deleted from binary search tree, it is replaced by its",
+        "true-answer": " In-order successor",
+        "wrong-answers": [
+            " Pre-order predecessor",
+            " In-order predecessor",
+            " None",
+            " All"
+        ]
+    },
+    {
+        "question": "\n265. Which type of traversal of binary search tree outputs the value in sorted order?",
+        "true-answer": " In-order",
+        "wrong-answers": [
+            " None",
+            " Pre-order",
+            " Post-order",
+            " All"
+        ]
+    },
+    {
+        "question": "\n266. In full binary search tree every internal node has exactly two children. If there are 100 leaf nodes in the tree, how many internal nodes\nare there in the tree?",
+        "true-answer": " 99",
+        "wrong-answers": [
+            " 101",
+            " 100",
+            " 49",
+            " 25"
+        ]
+    },
+    {
+        "question": "\n267. Which of the following statement about binary tree is CORRECT?",
+        "true-answer": " Every full binary tree is also a complete binary tree",
+        "wrong-answers": [
+            "",
+            " Every binary tree is either complete or full",
+            " A binary tree cannot be both complete and full",
+            " Every complete binary tree is also a full binary tree"
+        ]
+    },
+    {
+        "question": "\n268. Suppose a binary tree is constructed with n nodes, such that each node has exactly either zero or two children. The maximum height of\nthe tree will be?",
+        "true-answer": " (n-1)/2",
+        "wrong-answers": [
+            " (n+1)/2",
+            " (n+1)/2 -2",
+            " (n+1)/2 -1",
+            " n/2 -1"
+        ]
+    },
+    {
+        "question": "\n269. The difference between the external path length and the internal path length of a binary tree with n internal nodes is?",
+        "true-answer": " 2n",
+        "wrong-answers": [
+            " -1",
+            " 1",
+            " n",
+            " n + 1"
+        ]
+    },
+    {
+        "question": "\n270. The no of external nodes in a full binary tree with n internal nodes is?",
+        "true-answer": " n+1",
+        "wrong-answers": [
+            " 2n + 1",
+            " n",
+            " 2n",
+            " 2n - 1"
+        ]
+    },
+    {
+        "question": "\n271. Replace the deleted node with the node whose value is ____to that of the deleted node if the deletion node only has two children?",
+        "true-answer": " Closest",
+        "wrong-answers": [
+            " Behind",
+            " Infinite",
+            " None",
+            " Farthest"
+        ]
+    },
+    {
+        "question": "\n272. The ____element of the root node should be replaced with the root node to delete it?",
+        "true-answer": " Closest",
+        "wrong-answers": [
+            " Infinite",
+            " Farthest",
+            " Behind",
+            " None"
+        ]
+    },
+    {
+        "question": "\n273. Our goal is to find the nearest value, so we move left first, then right as far as possible. The node nearest to us is called the ____?",
+        "true-answer": " Immediate Predecessor",
+        "wrong-answers": [
+            "",
+            " Closest Predecessor",
+            " Nearest Predecessor",
+            " Farthest Predecessor"
+        ]
+    },
+    {
+        "question": "\n274. Nodes with no children can be deleted by replacing them with ___, which is very simple to do?",
+        "true-answer": " Null",
+        "wrong-answers": [
+            " Nodes",
+            " Endpoints",
+            " Edges",
+            " Root"
+        ]
+    },
+    {
+        "question": "\n275. Depending on the number of children of the deleted node, there are ____ ways to delete an ITEM from a binary search tree?",
+        "true-answer": " Three",
+        "wrong-answers": [
+            " Two",
+            " Four",
+            " Five",
+            " Multiple"
+        ]
+    },
+    {
+        "question": "\n276. The ITEM is inserted as the ____ child of the node if its value is greater than the node, and as the ____ child if its value is less than the\nnode?",
+        "true-answer": " Right, Left",
+        "wrong-answers": [
+            " Left, Root",
+            " Left, Right",
+            " Root, Left",
+            " Right, Root"
+        ]
+    },
+    {
+        "question": "\n277. What is the best case time complexity of the binary tree sort?",
+        "true-answer": " O(nlogn)",
+        "wrong-answers": [
+            " O(n^2lg(n))",
+            " O(logn)",
+            " O(1)",
+            " O(n)"
+        ]
+    },
+    {
+        "question": "\n278. What is the worst case time complexity of the binary tree sort?",
+        "true-answer": " O(n)",
+        "wrong-answers": [
+            " O(1)",
+            " O(n^2lg(n))",
+            " O(nlogn)",
+            " O(logn)"
+        ]
+    },
+    {
+        "question": "\n279. In binary tree sort, we first construct the BST and then we perform _______ traversal to get the sorted order.",
+        "true-answer": " inorder",
+        "wrong-answers": [
+            "",
+            " postorder",
+            " level order",
+            " preorder"
+        ]
+    },
+    {
+        "question": "\n280. Consider the original array 17 8 12 4 26. How many comparisons are needed to construct the BST on the original array?",
+        "true-answer": " 10",
+        "wrong-answers": [
+            " 9",
+            " 7",
+            " 4",
+            " 5"
+        ]
+    },
+    {
+        "question": "\n281. What is the expected number of leaves in a randomized binary search tree?",
+        "true-answer": " (n + 1)/3",
+        "wrong-answers": [
+            " (n + 1)/2",
+            " n + 1",
+            " (n + 1)/4",
+            " n + 3"
+        ]
+    },
+    {
+        "question": "\n282. If binary trees are represented in arrays, what formula can be used to locate a left child, if the node has an index i?",
+        "true-answer": " 2i+1",
+        "wrong-answers": [
+            " 4i",
+            " 2i/5",
+            " 2i+2",
+            " 2i"
+        ]
+    },
+    {
+        "question": "\n283. How many orders of traversal are applicable to a binary tree (In General)?",
+        "true-answer": " 3",
+        "wrong-answers": [
+            " 4",
+            " 2",
+            " 1",
+            " 6"
+        ]
+    },
+    {
+        "question": "\n284. The average depth of a binary tree is given as?",
+        "true-answer": " O(log N)",
+        "wrong-answers": [
+            " O(n^2)",
+            " O(n)",
+            " O(nlg(n))",
+            " O(n^2lg(n))"
+        ]
+    },
+    {
+        "question": "\n285. Which of these is not an assignment operator?",
+        "true-answer": " a:b=sqr(2)",
+        "wrong-answers": [
+            " y=y+1.2",
+            " y=x+y",
+            " a=c+1",
+            " z=z+1"
+        ]
+    },
+    {
+        "question": "\n286. Which of these operators is not conditional?",
+        "true-answer": " if a<b then 100 else z=5",
+        "wrong-answers": [
+            " if x<y then x=0 else y=0",
+            " if a<>b then z=z+1 else a=b+1",
+            " if a<b then a=2*b else b=2-b",
+            " if x>=y then x=1 else y=1+x"
+        ]
+    },
+    {
+        "question": "\n287. Which of these is an assignment operator?",
+        "true-answer": " a=c+1",
+        "wrong-answers": [
+            " a/b=sqr(2)",
+            " a*x+b=0",
+            " 2z=z+12",
+            " a*b=sqr(2)"
+        ]
+    },
+    {
+        "question": "\n288. A binary search tree is created by inserting in order the following integers: 55, 25, 65, 15, 35, 60, 75, 10, 20, 30, 40, 45. The number of\nthe nodes in the left sub-tree and right sub-tree of the root, respectively, is\u2026",
+        "true-answer": " (8, 3)",
+        "wrong-answers": [
+            " (7, 4)",
+            " (3, 8)",
+            " (3, 7)",
+            " (7, 3)"
+        ]
+    },
+    {
+        "question": "\n289. A binary search tree is created by inserting in order the following integers: 40, 20, 45, 15, 25, 42, 50, 10, 18, 22, 35, 38. The number of\nthe node in the left sub-tree and right sub-tree of the root, respectively, is\u2026",
+        "true-answer": " (8, 3)",
+        "wrong-answers": [
+            " (3, 8)",
+            " (7, 4)",
+            " (7, 3)",
+            " (3, 7)"
+        ]
+    },
+    {
+        "question": "\n290. A binary search tree is created by inserting in order the following integers: 85, 45, 95, 35, 50, 90, 105, 30, 40, 47, 55, 60. The number of\nthe node in the left sub-tree and right sub-tree of the root, respectively, is\u2026",
+        "true-answer": " (7, 3)",
+        "wrong-answers": [
+            " (3, 7)",
+            " (5, 7)",
+            " (4, 7)",
+            " (7, 4)"
+        ]
+    },
+    {
+        "question": "\n291. A binary search tree is generated by inserting in order the following integers: 70, 25, 80, 15, 35, 75, 90, 10, 20, 30, 40, 45. The number\nof nodes in the left sub-tree and right sub-tree of the root, respectively, is\u2026",
+        "true-answer": " (3, 8)",
+        "wrong-answers": [
+            " (8, 3)",
+            " (4, 7)",
+            " (5, 7)",
+            " (7, 4)"
+        ]
+    },
+    {
+        "question": "\n292. A binary search tree is created by inserting in order the following integers: 30, 18, 45, 12, 25, 38, 60, 10, 15, 22, 32, 41. The number of\nthe nodes in the left sub-tree and right sub-tree of the root, respectively, is\u2026",
+        "true-answer": " (6, 5)",
+        "wrong-answers": [
+            " (5, 6)",
+            " (4, 7)",
+            " (5, 7)",
+            " (7, 4)"
+        ]
+    },
+    {
+        "question": "\n293. A binary search tree is created by inserting in order the following integers: 40, 20, 45, 15, 25, 42, 50, 10, 18, 22, 35, 38 The number of\nthe nodes in the left sub-tree and right sub-tree of the root, respectively, is\u2026",
+        "true-answer": " (6, 4)",
+        "wrong-answers": [
+            " (4, 6)",
+            " (5, 5)",
+            " (5, 6)",
+            " (7, 3)"
+        ]
+    },
+    {
+        "question": "\n294. What is the time complexity for maintaining a dynamic set of weighted trees?",
+        "true-answer": " O (log n)",
+        "wrong-answers": [
+            " O (n!)",
+            " O (n)",
+            " O (n^3)",
+            " O (n^2)"
+        ]
+    },
+    {
+        "question": "\n295. How many edges does a leaf cluster contain in Binary search?",
+        "true-answer": " 0",
+        "wrong-answers": [
+            " 1",
+            " 3",
+            " 4",
+            " 2"
+        ]
+    },
+    {
+        "question": "\n296. An immediate application of a Depth First Search traversal is __________",
+        "true-answer": " count the number of leaf nodes",
+        "wrong-answers": [
+            " perform Inorder traversal in easy way",
+            " implement preorder traversal",
+            " implement postorder traversal",
+            " count number of nodes"
+        ]
+    },
+    {
+        "question": "\n297. The time complexity of calculating the sum of all leaf nodes in an n-order binary tree is __________",
+        "true-answer": " O(n)",
+        "wrong-answers": [
+            " O(1)",
+            " O(n^2)",
+            " O(n+2)",
+            " O(n+1)"
+        ]
+    },
+    {
+        "question": "\n298. For the expression (7-(4*5))+(9/3) which of the following is the post order tree traversal?",
+        "true-answer": " 745*-93/+",
+        "wrong-answers": [
+            " *745-93/+",
+            " 74*+593/-",
+            " 74*-593/+",
+            " 93/+745*-"
+        ]
+    },
+    {
+        "question": "\n299.\nFrom the following code identify the which traversal of a binary tree is this __________ //if node has left child\n order(node.left)\n//if node has right child\n order(node.right)\n //visit(node)",
+        "true-answer": " postorder traversal",
+        "wrong-answers": [
+            "",
+            " preorder traversal",
+            " Inorder traversal",
+            " Euler tour traversal"
+        ]
+    },
+    {
+        "question": "\n300. In preorder traversal of a binary tree the second step is ____________",
+        "true-answer": " traverse the left subtree",
+        "wrong-answers": [
+            "",
+            " traverse the right subtree",
+            " traverse right subtree and visit the root",
+            " visit the root"
+        ]
+    },
+    {
+        "question": "\n301. What are the disadvantages of normal binary tree traversals?",
+        "true-answer": " there are many pointers which are null and thus useless",
+        "wrong-answers": [
+            "",
+            " there is no traversal which is efficient",
+            " complexity in implementing",
+            " improper traversals"
+        ]
+    },
+    {
+        "question": "\n302. What is a threaded binary tree traversal?",
+        "true-answer": " a binary tree traversal without using stacks and queues",
+        "wrong-answers": [
+            "",
+            " a binary tree traversal using stacks and queues",
+            " a binary tree traversal using queues",
+            " a binary tree traversal using stacks"
+        ]
+    },
+    {
+        "question": "\n303. In a full binary tree if there are L leaves, then total number of nodes N are?",
+        "true-answer": " N = 2*L \u2013 1",
+        "wrong-answers": [
+            " N = 2*L",
+            " N = L \u2013 1",
+            " N = 2*L - 2",
+            " N = L + 1"
+        ]
+    },
+    {
+        "question": "\n304. In a full binary tree if number of internal nodes is I, then number of nodes N are?",
+        "true-answer": " 2*I + 1",
+        "wrong-answers": [
+            " L = I + 1",
+            " L = I \u2013 1",
+            " L = 2*I \u2013 1",
+            " L = 2*I"
+        ]
+    },
+    {
+        "question": "\n305. In a full binary tree if number of internal nodes is I, then number of leaves L are?",
+        "true-answer": " L = I + 1",
+        "wrong-answers": [
+            " L = 2*I",
+            " L = 2*I \u2013 1",
+            " L = 2*I + 1",
+            " L = I \u2013 1"
+        ]
+    },
+    {
+        "question": "\n306. What is the average case time complexity for finding the height of the binary tree?",
+        "true-answer": " O(log N)",
+        "wrong-answers": [
+            " O(n)",
+            " O(n^2)",
+            " O(n^2lg(n))",
+            " O(nlg(n))"
+        ]
+    },
+    {
+        "question": "\n307. What is a complete binary tree?",
+        "true-answer": " A binary tree, which is completely filled, with the possible exception of the bottom level, which is filled from left to right",
+        "wrong-answers": [
+            "",
+            " A binary tree, which is completely filled, with the possible exception of the bottom level, which is filled from right to left",
+            " Each node has exactly zero or two children",
+            " A tree In which all nodes have degree 2"
+        ]
+    },
+    {
+        "question": "\n308. What is a full binary tree?",
+        "true-answer": " Each node has exactly zero or two children",
+        "wrong-answers": [
+            " Each node has exactly two children",
+            " Each node has exactly one or two children",
+            " Each node has exactly zero children",
+            " All the leaves are at the same level"
+        ]
+    },
+    {
+        "question": "\n309. The number of edges from the node to the deepest leaf is called _________ of the tree.",
+        "true-answer": " Height",
+        "wrong-answers": [
+            "",
+            " Width",
+            " Depth",
+            " Length"
+        ]
+    },
+    {
+        "question": "\n310. The number of edges from the root to the node is called __________ of the tree.",
+        "true-answer": " Depth",
+        "wrong-answers": [
+            "",
+            " Height",
+            " Length",
+            " Width"
+        ]
+    },
+    {
+        "question": "\n311. Which of the following sorting algorithms can be considered as improvement to the binary tree sort?",
+        "true-answer": " Heap sort",
+        "wrong-answers": [
+            " Quick sort",
+            "",
+            " Selection sort",
+            " Insertion sort"
+        ]
+    },
+    {
+        "question": "\n312. a=45, b=24. If a>b then a=a+b else a=a-b. What value will the variable a receive as a result of the algorithm's execution?",
+        "true-answer": " 69",
+        "wrong-answers": [
+            " 45",
+            " 25",
+            " 30",
+            " 35"
+        ]
+    },
+    {
+        "question": "\n313. a=17, b=25. If a<b then a=a+2 otherwise a=a+b. What value will the variable a take as a result of the algorithm's operation?",
+        "true-answer": " 19",
+        "wrong-answers": [
+            " 21",
+            " 25",
+            " 23",
+            " 10"
+        ]
+    },
+    {
+        "question": "\n314. x=5, y=2, t=y, y=x - (int (x/y))*y, x=t, y=y+2*t*t. After the execution of the algorithm, what values will the variables x, y take?",
+        "true-answer": " 2,9",
+        "wrong-answers": [
+            " 2,13",
+            " 2,12",
+            " 2,11",
+            " 2,10"
+        ]
+    },
+    {
+        "question": "\n315. x=11, y=5, t=y, y=x - (int (x/y))*y, x=t, y=y+2*t*t. What values do the variables x, y have after the execution of the algorithm?",
+        "true-answer": " 5,51",
+        "wrong-answers": [
+            " 11,10",
+            " 5,55",
+            " 11,5",
+            " 5,50"
+        ]
+    },
+    {
+        "question": "\n316. What is the value of variable z when executing the linear algorithm x=10, y=5, z=x+y, x=x+y, z=x+z?",
+        "true-answer": " 30",
+        "wrong-answers": [
+            " 14",
+            " 31",
+            " 32",
+            " 15"
+        ]
+    },
+    {
+        "question": "\n317. If the initial sequence of data consists of numbers x=-4, y=3, then what numbers will be obtained at the output when performing the\nsequence of operators x=x-y, y=x+y, x=x+y?",
+        "true-answer": " -11,-4",
+        "wrong-answers": [
+            " 8,6",
+            " 3,-4",
+            " 10,-5",
+            " -5,11"
+        ]
+    },
+    {
+        "question": "\n318. If the initial sequence of data consists of numbers x=2, y=3, then what numbers will be obtained at the output when performing the\nsequence of operators x=x+y, y=x-y, x=x-y?",
+        "true-answer": " 3,2",
+        "wrong-answers": [
+            " 3,6",
+            " 2,6",
+            " 2,4",
+            " 3,5"
+        ]
+    },
+    {
+        "question": "\n319. The finiteness of an algorithm means that...",
+        "true-answer": " The algorithm can be divided into a finite number of steps.",
+        "wrong-answers": [
+            " The algorithm can be used to solve a whole class of similar tasks.",
+            " The algorithm is understandable to a specific executor.",
+            " The execution of the algorithm should end with a result.",
+            " With the given initial data, the result of the process is unambiguous."
+        ]
+    },
+    {
+        "question": "\n320. The effectiveness of an algorithm means that...",
+        "true-answer": " The execution of the algorithm should end with a result.",
+        "wrong-answers": [
+            " The algorithm can be divided into a finite number of steps.",
+            " The algorithm can be used to solve a whole class of similar tasks.",
+            " With the given initial data, the result of the process is unambiguous.",
+            " The algorithm is understandable to a specific executor."
+        ]
+    },
+    {
+        "question": "\n321. The clarity of an algorithm means that...",
+        "true-answer": " The algorithm is understandable to a specific executor.",
+        "wrong-answers": [
+            " With the given initial data, the result of the process is unambiguous.",
+            " The execution of the algorithm should end with a result.",
+            " The algorithm can be divided into a finite number of steps.",
+            " The algorithm can be used to solve a whole class of similar tasks."
+        ]
+    },
+    {
+        "question": "\n322. The determinism of an algorithm means that...",
+        "true-answer": " With the given initial data, the result of the process is unambiguous.",
+        "wrong-answers": [
+            " The algorithm is understandable to a specific executor.",
+            " The algorithm can be divided into a finite number of steps.",
+            " The execution of the algorithm should end with a result.",
+            " The algorithm can be used to solve a whole class of similar tasks."
+        ]
+    },
+    {
+        "question": "\n323. The massivity of an algorithm means that...",
+        "true-answer": " An algorithm can be used to solve a whole class of similar tasks.",
+        "wrong-answers": [
+            " With the given initial data, the result of the process is unambiguous.",
+            " The execution of the algorithm should end with a result.",
+            " The algorithm is understandable to a specific executor.",
+            " The algorithm can be divided into a finite number of steps."
+        ]
+    },
+    {
+        "question": "\n324. An algorithm written in an understandable computer programming language is called...",
+        "true-answer": " program",
+        "wrong-answers": [
+            " as an algorithm executor;",
+            " algorithm protocol",
+            " algorithm listing",
+            " textual algorithm protocol"
+        ]
+    },
+    {
+        "question": "\n325.\nThe algorithm is given in verbal form:\n1) n=0\n2) P=1\n3) n=n+1\n4) P=2*P\n5) If P>10 then go to step 7;\n6) Go to step 3\n7) Print P;\n8) End.\nAfter the execution of the algorithm, the variable P will take the value\u2026",
+        "true-answer": " 16",
+        "wrong-answers": [
+            " 8",
+            " 24",
+            " 36",
+            " 12"
+        ]
+    },
+    {
+        "question": "\n326.\nThe algorithm is given in verbal form:\n1) n=0\n2) P=1\n3) n=n+1\n4) P=2*P\n5) If P>7 then go to step 7;\n6) Go to step 3\n7) Print P;\n8) End.\nAfter the execution of the algorithm, the variable P will take the value\u2026",
+        "true-answer": " 8",
+        "wrong-answers": [
+            " 12",
+            " 18",
+            " 14",
+            " 10"
+        ]
+    },
+    {
+        "question": "\n327.\nThe algorithm is given in verbal form:\n1) a=3, b=5\n2) n=5, i=1\n3) c=a+b\n4) If i > n then go to step 6;\n5) a=b, b=c, i=i+1 and go to step 3\n6) Print c;\n7) End.\nAfter the execution of the algorithm, the variable c will take the value\u2026",
+        "true-answer": " 89",
+        "wrong-answers": [
+            " 114",
+            " 34",
+            " 21",
+            " 55"
+        ]
+    },
+    {
+        "question": "\n328.\nThe algorithm is given in word form:\n1) a=3, b=5\n2) n=5, i=1\n3) c=a+b\n4) If i >= n then go to step 6;\n5) a=b, b=c, i=i+1 and go to step 3\n6) Print c;\n7) End.\nAfter the execution of the algorithm, the variable c will take the value\u2026",
+        "true-answer": " 55",
+        "wrong-answers": [
+            " 89",
+            " 21",
+            " 34",
+            " 114"
+        ]
+    },
+    {
+        "question": "\n329.\nThe algorithm is given in verbal form:\n1) a=5, b=6\n2) n=5, i=1\n3) c=a+b\n4) If i > n then go to step 6;\n5) a=b, b=c, i=i+1 and go to step 3\n6) Print c;\n7) End.\nAfter the execution of the algorithm, the variable c will take the value\u2026",
+        "true-answer": " 118",
+        "wrong-answers": [
+            "",
+            " 89",
+            " 68",
+            " 17"
+        ]
+    },
+    {
+        "question": "\n330.\nThe algorithm is given in verbal form:\n1) a=2, b=4\n2) n=5, i=1\n3) c=a+b\n4) If i > n then go to step 6;\n5) a=b, b=c, i=i+1 and go to step 3\n6) Print c;\n7) End.\nAfter the execution of the algorithm, the variable c will take the value\u2026",
+        "true-answer": " 68",
+        "wrong-answers": [
+            " 13",
+            " 21",
+            " 17",
+            " 89"
+        ]
+    },
+    {
+        "question": "\n331.\nThe algorithm is given in verbal form:\n1) a=0, b=1\n2) n=5, i=1\n3) c=a+b\n4) If i > n then go to step 6;\n5) a=b, b=c, i=i+1 and go to step 3\n6) Print c;\n7) End.\nAfter the execution of the algorithm, the variable c will take the value\u2026",
+        "true-answer": " 13",
+        "wrong-answers": [
+            " 68",
+            " 8",
+            " 12",
+            " 89"
+        ]
+    },
+    {
+        "question": "\n332.\nThe algorithm is given in verbal form:\n1) a=1, b=1\n2) n=3, i=1\n3) c=a+b\n4) If i > n then go to step 6;\n5) a=b, b=c, i=i+1 and go to step 3\n6) Print c;\n7) End.\nAfter the execution of the algorithm, the variable c will take the value\u2026",
+        "true-answer": " 8",
+        "wrong-answers": [
+            " 13",
+            " 34",
+            " 5",
+            " 21"
+        ]
+    },
+    {
+        "question": "\n333.\nThe algorithm is given in verbal form:\n1) a=5, b=10\n2) n=5, i=1\n3) c=a-b\n4) If i > n then go to step 6;\n5) a=b, b=c, i=i+1 and go to step 3\n6) Print c;\n7) End.\nAfter the execution of the algorithm, the variable c will take the value...",
+        "true-answer": " -55",
+        "wrong-answers": [
+            " 55",
+            " -21",
+            " 34",
+            " 21"
+        ]
+    },
+    {
+        "question": "\n334.\nThe algorithm is given in word form:\n1) S=0;\n2) C=1;\n3) If S>10 then go to step 5;\n4) S=S+C, C=C+1 and go to step 3;\n5) Print S;\n6) End.\nAfter the execution of the algorithm, the variable S will take the value\u2026",
+        "true-answer": " 6",
+        "wrong-answers": [
+            " 16",
+            " 5",
+            " 10",
+            " 24"
+        ]
+    },
+    {
+        "question": "\n335.\nThe algorithm is given in verbal form:\n1) S=0;\n2) C=1;\n3) If S > 8 then go to point 5);\n4) S=S+C,C=C+1 and go to point 3)\n5) Print C;\n6) End.\nAfter the execution of the algorithm, the variable C will assume the value\u2026",
+        "true-answer": " 5",
+        "wrong-answers": [
+            " 32",
+            " 10",
+            " 24",
+            " 24"
+        ]
+    },
+    {
+        "question": "\n336.\nThe algorithm is given in verbal form:\n1) Input n;\n2) P=1, i=5;\n3) P=P+i, i=i-1\n4) If i > n then go to point 3);\n5) Print P;\n6) End.\nIf n=3, what will be the value of P?",
+        "true-answer": " 10",
+        "wrong-answers": [
+            " 35",
+            " 36",
+            " 40",
+            " 28"
+        ]
+    },
+    {
+        "question": "\n337.\nThe algorithm is given in verbal form:\n1) Input n;\n2) P=1, i=10;\n3) P=P+i, i=i-1\n4) If i > n then go to point 3);\n5) Print P;\n6) End.\nIf n=6, what will be the value of P?",
+        "true-answer": " 35",
+        "wrong-answers": [
+            " 10",
+            " 36",
+            " 41",
+            " 28"
+        ]
+    },
+    {
+        "question": "\n338.\nThe algorithm is given in verbal form:\n1) Input n;\n2) P=1;\n3) If n>0 then go to point 5);\n4) P=P*n, n=n+2 and go to point 3)\n5) Print P;\n6) End.\nIf n=-6, what will be the value of P?",
+        "true-answer": " 0",
+        "wrong-answers": [
+            " 1",
+            " -24",
+            " -48",
+            " 24"
+        ]
+    },
+    {
+        "question": "\n339.\nThe algorithm is given in verbal form:\n1) Input n;\n2) P=1;\n3) If n>=0 then go to point 5);\n4) P=P*n, n=n+2 and go to point 3)\n5) Print P;\n6) End.\nIf n=-6, what will be the value of P?",
+        "true-answer": " -48",
+        "wrong-answers": [
+            " 24",
+            " -24",
+            " 0",
+            " 1"
+        ]
+    },
+    {
+        "question": "\n340.\nThe algorithm is given in verbal form:\n1) Start;\n2) Input x;\n3) z=3, i=0;\n4) z=z+x/2;\n5) i=i+1;\n6) If i<=3 then go to point 4;\n7) Print z;\n8) End.\nIf x=2, what is the value of z?",
+        "true-answer": " 7",
+        "wrong-answers": [
+            " 5",
+            " 9",
+            " 11",
+            " 13"
+        ]
+    },
+    {
+        "question": "\n341.\nThe algorithm is given in verbal form:\n1) Start;\n2) Input x;\n3) z=10, i=0;\n4) z=2*z+3x/2;\n5) i=i+1;\n6) If i<=2 then go to point 4;\n7) Print z;\n8) End.\nIf x=8, what is the value of z?",
+        "true-answer": " 164",
+        "wrong-answers": [
+            " 340",
+            " 506",
+            " 76",
+            " 692"
+        ]
+    },
+    {
+        "question": "\n342.\nThe algorithm is given in verbal form:\n1) Start;\n2) Input x;\n3) z=5, i=0;\n4) z=2*z+x/4;\n5) i=i+1;\n6) If i<=3 then go to point 4;\n7) Print z;\n8) End.\nIf x=6, what is the value of z?",
+        "true-answer": " 102,5",
+        "wrong-answers": [
+            " 24,5",
+            " 206,5",
+            " 50,5",
+            " 11,5"
+        ]
+    },
+    {
+        "question": "\n343.\nThe algorithm is given in verbal form:\n1) Start;\n2) Input x;\n3) z=5, i=0;\n4) z=z+x/2;\n5) i=i+1;\n6) If i<=2 then go to point 4;\n7) Print z;\n8) End.\nIf x=6, what is the value of z?",
+        "true-answer": " 14",
+        "wrong-answers": [
+            " 13",
+            " 12",
+            " 11",
+            " 15"
+        ]
+    },
+    {
+        "question": "\n344.\nThe algorithm is given in verbal form:\n1) Start;\n2) Input x;\n3) z=3, i=0;\n4) z=z+x/2;\n5) i=i+1;\n6) If i<=3 then go to point 4);\n7) Print z;\n8) End.\nIf x=4, what is the value of z?",
+        "true-answer": " 11",
+        "wrong-answers": [
+            " 13",
+            " 5",
+            " 7",
+            " 9"
+        ]
+    },
+    {
+        "question": "\n345. Indicate the value of the variable k after executing the loop: k=5; for I=2 to 5 do k=k+1;",
+        "true-answer": " 9",
+        "wrong-answers": [
+            " 5",
+            " 2",
+            " 10",
+            " 4"
+        ]
+    },
+    {
+        "question": "\n346.\nThe algorithm is given in verbal form:\n1) Start;\n2) Input a;\n3) s=0, i=1;\n4) s=s+1/i;\n5) If s > a then go to point 7);\n6) i=i+1 go to point 4)\n7) Print s;\n8) End.\nIf a=2, what is the value of s?",
+        "true-answer": " 25/12",
+        "wrong-answers": [
+            " 24/11",
+            " 19/9",
+            " 19/10",
+            " 20/9"
+        ]
+    },
+    {
+        "question": "\n347. What is the complexity function called exponential:",
+        "true-answer": " O(2^n)",
+        "wrong-answers": [
+            " O(n)",
+            " O(log(n))",
+            " O(n*log(n))",
+            " O(1)"
+        ]
+    },
+    {
+        "question": "\n348. Constant complexity algorithms are characterized by the following complexity function:",
+        "true-answer": " O(1)",
+        "wrong-answers": [
+            " O(n*log(n))",
+            " O(n*n)",
+            " O(log(n))",
+            " O(n)"
+        ]
+    },
+    {
+        "question": "\n349. The complexity of this algorithm: For i=1 to n do Begin \u2026 End;",
+        "true-answer": " O(n)",
+        "wrong-answers": [
+            " O(n*log(n))",
+            " O(1)",
+            " O(n^2)",
+            " O(2^n)"
+        ]
+    },
+    {
+        "question": "\n350. The complexity of this algorithm: For i=1 to n do For j=1 to n do Begin \u2026 End;",
+        "true-answer": " O(n^2)",
+        "wrong-answers": [
+            " O(n*log(n))",
+            " O(1)",
+            " O(2^n)",
+            " O(n)"
+        ]
+    },
+    {
+        "question": "\n351. What is the complexity function called exponential:",
+        "true-answer": " O(2^n)",
+        "wrong-answers": [
+            " O(n*log(n))",
+            " O(1)",
+            " O(n^2)",
+            " O(n)"
+        ]
+    },
+    {
+        "question": "\n352. Choose the correct representation of the arithmetic expression (x+3y)/5xy in an algorithmic language:",
+        "true-answer": " (x + 3*y) / (5*x*y)",
+        "wrong-answers": [
+            " x + 3*y / (5*x*y)",
+            " x + 3*y / 5*x*y",
+            " x + 3y / 5xy",
+            " (x + 3y) / 5xy"
+        ]
+    },
+    {
+        "question": "\n353. After executing the algorithm a=17, b=25 if a<b then a=a+2 else a=a+b. What will be the value of a?",
+        "true-answer": " 19",
+        "wrong-answers": [
+            " 25",
+            " 21",
+            " 50",
+            " 23"
+        ]
+    },
+    {
+        "question": "\n354. As a result of executing the algorithm a=3, b=4, c=5, d=6 if c<b then d=a+3 else c=c+a. What will be the value of a+b+c+d?",
+        "true-answer": " 21",
+        "wrong-answers": [
+            " 9",
+            " 8",
+            " 11",
+            " 7"
+        ]
+    },
+    {
+        "question": "\n355. As a result of executing the algorithm a=12, b=21, c=10 if a>b then a=a+3, c=c+a else c=a+b+c/2. What will be the value of variable c?",
+        "true-answer": " 38",
+        "wrong-answers": [
+            " 64",
+            " 25",
+            " 84",
+            " 43"
+        ]
+    },
+    {
+        "question": "\n356. As a result of executing the algorithm a=45, b=24 if a>b then a=a-5 else print a. What will be the value of variable a?",
+        "true-answer": " 40",
+        "wrong-answers": [
+            " 25",
+            " 35",
+            " 45",
+            " 30"
+        ]
+    },
+    {
+        "question": "\n357. After executing the algorithm a=12, b=18 if a > b then print b else a=a+2, b=b+1 the value of a equals...",
+        "true-answer": " 14",
+        "wrong-answers": [
+            " 19",
+            " 22",
+            " 21",
+            " 23"
+        ]
+    },
+    {
+        "question": "\n358. After executing the linear algorithm x=10, y=5, z=x+y, x=x+y, z=x+z the value of z equals...",
+        "true-answer": " 30",
+        "wrong-answers": [
+            " 15",
+            " 32",
+            " 14",
+            " 31"
+        ]
+    },
+    {
+        "question": "\n359. After executing the linear algorithm x=17, y=5, z=x+y, x=x+y, z=x+z the value of z equals...",
+        "true-answer": " 44",
+        "wrong-answers": [
+            " 43",
+            " 42",
+            " 40",
+            " 41"
+        ]
+    },
+    {
+        "question": "\n360. After executing the linear algorithm a=5, b=7, c=a+b, b=c+a, a=b+c, c=a+b the value of c equals...",
+        "true-answer": " 46",
+        "wrong-answers": [
+            " 45",
+            " 42",
+            " 41",
+            " 40"
+        ]
+    },
+    {
+        "question": "\n361. The initial values of variables A,B,C,D are set: A=0,B=5, C=0,D=10. What will the new values of variables A,B,C,D be after executing\nthe operations D=C,C=B,B=A?",
+        "true-answer": " A=0,B=0,C=5,D=0",
+        "wrong-answers": [
+            " A=0,B=5,C=0 ,D=0",
+            " A=0,B=0,C=0,D=5",
+            " A=0,B=5,C=0,D=5",
+            " A=5,B=0,C=0,D=0"
+        ]
+    },
+    {
+        "question": "\n362. The initial values of variables A,B,C,D are set: A=10,B=0, C=5,D=10. What will the new values of variables A,B,C,D be after\nexecuting the operations D=C,C=B,B=A?",
+        "true-answer": " A=10,B=10,C=0,D=5",
+        "wrong-answers": [
+            " A=10,B=5,C=5 ,D=10",
+            " A=5,B=10,C=5,D=10",
+            " A=10,B=0,C=0,D=10",
+            " A=5,B=10,C=0,D=10"
+        ]
+    },
+    {
+        "question": "\n363. The initial values of variables A,B,C,D are set: A=11,B=12, C=13,D=14. What will the new values of variables A,B,C,D be after\nexecuting the operations D=C,C=B,B=A?",
+        "true-answer": " A=11,B=11,C=12,D=13",
+        "wrong-answers": [
+            " A=13,B=10,C=12,D=11",
+            " A=12,B=12,C=13,D=13",
+            " A=13,B=11,C=10,D=11",
+            " A=13,B=12,C=11 ,D=10"
+        ]
+    },
+    {
+        "question": "\n364. As a result of executing the algorithm a=5, b=2*a, c=2*b, d=2*c; if a+c<b+d then c=a+c else d=b+d. What is the sum of ab+cd?",
+        "true-answer": " 1050",
+        "wrong-answers": [
+            " 650",
+            " 55",
+            " 94",
+            " 70"
+        ]
+    },
+    {
+        "question": "\n365. As a result of executing the algorithm a=5, b=2*a, c=3, d=2*c; if a+c<b+d then c=a+c else d=b+d. What is the sum of 2bc-11d?",
+        "true-answer": " 94",
+        "wrong-answers": [
+            " 1050",
+            " 70",
+            " 55",
+            " 650"
+        ]
+    },
+    {
+        "question": "\n366. As a result of executing the algorithm a=10, b=2*a, c=5, d=2*c; if a+c<b+d then c=a+c else d=b+d. What is the sum of 2bc+5d?",
+        "true-answer": " 650",
+        "wrong-answers": [
+            " 94",
+            " 55",
+            " 70",
+            " 1050"
+        ]
+    },
+    {
+        "question": "\n367. As a result of executing the algorithm a=10, b=4, c=5, d=6; if a+c<b+d then c=a+c else d=b+d. What is the sum of a+2bc+2d?",
+        "true-answer": " 70",
+        "wrong-answers": [
+            " 650",
+            " 55",
+            " 94",
+            " 1050"
+        ]
+    },
+    {
+        "question": "\n368. As a result of executing the algorithm a=1, b=4, c=5, d=6; if a+c<b+d then c=a+c else d=b+d. What is the sum of a+2bc+d?",
+        "true-answer": " 55",
+        "wrong-answers": [
+            " 650",
+            " 1050",
+            " 94",
+            " 70"
+        ]
+    },
+    {
+        "question": "\n369. As a result of executing the assignment operators c:=20; d:=4; f:=c*d; f:=f/d; d:=c-d; c:=f-d; the variables c, d, f will take the following\nvalues respectively:",
+        "true-answer": " 4,16,20",
+        "wrong-answers": [
+            " 20,4,16",
+            " 4,20,16",
+            " 16,4,20",
+            " 16,20,4"
+        ]
+    },
+    {
+        "question": "\n370. As a result of executing the assignment operators c:=10; d:=2; f:=c*d; f:=f/d; d:=c-d; c:=f-d; the variables c, d, f will take the following\nvalues respectively:",
+        "true-answer": " 2,8,10",
+        "wrong-answers": [
+            " 8,10,2",
+            " 2,10,8",
+            " 10,2,8",
+            " 8,2,10"
+        ]
+    },
+    {
+        "question": "\n371. As a result of the algorithm's execution a =4, b =2, c =5, d=3; if c < b then c= a+b else d=a-c. What is the sum of a+b+c+d?",
+        "true-answer": " 10",
+        "wrong-answers": [
+            " 18",
+            " 23",
+            " 33",
+            " 22"
+        ]
+    },
+    {
+        "question": "\n372. As a result of the algorithm's execution a =3, b =4, c =5, d=6; if c < d then d= a+3 else c=a-3. What is the sum of a+b+c+d?",
+        "true-answer": " 18",
+        "wrong-answers": [
+            " 33",
+            " 23",
+            " 19",
+            " 22"
+        ]
+    },
+    {
+        "question": "\n373. As a result of the algorithm's execution a =10, b =11, c =12, d=13; if b < a then c=2c else c=2-d. What is the sum of a+b+c+d?",
+        "true-answer": " 23",
+        "wrong-answers": [
+            " 24",
+            " 10",
+            " 54",
+            " 42"
+        ]
+    },
+    {
+        "question": "\n374. As a result of the algorithm's execution a =10, b =11, c =12, d=13; if a< b then c= c+d else c=c-d. What is the sum of a+b+c+d?",
+        "true-answer": " 59",
+        "wrong-answers": [
+            " 34",
+            " 23",
+            " 27",
+            " 17"
+        ]
+    },
+    {
+        "question": "\n375. As a result of the algorithm's execution a =3, b =4, c =5, d=6; if c < b then d= a+3 else c=c+a. What is the sum of a+b+c+d?",
+        "true-answer": " 21",
+        "wrong-answers": [
+            " 9",
+            " 11",
+            " 8",
+            " 7"
+        ]
+    },
+    {
+        "question": "\n376. As a result of the algorithm's execution a =7, b =5, c =3, d=1; if b<c then d= a+3 else c=c+a. What is the sum of a+b+c+d?",
+        "true-answer": " 23",
+        "wrong-answers": [
+            " 55",
+            " 42",
+            " 44",
+            " 34"
+        ]
+    },
+    {
+        "question": "\n377. As a result of the algorithm's execution a =1, b =3, c =5, d=7; if a< b then a= a+3 else c=c+a. What is the sum of a+b+c+d?",
+        "true-answer": " 19",
+        "wrong-answers": [
+            " 55",
+            " 51",
+            " 42",
+            " 34"
+        ]
+    },
+    {
+        "question": "\n378. As a result of the algorithm's execution a =5, b =14, c =2, d=7; if c < b then d= a+3 else c=c+a. What is the sum of a+b+c+d?",
+        "true-answer": " 29",
+        "wrong-answers": [
+            " 42",
+            " 34",
+            " 55",
+            " 19"
+        ]
+    },
+    {
+        "question": "\n379. As a result of the algorithm's execution a =13, b =14, c =15, d=16; if c < b then d= a+3 else c=c+a. What is the sum of a+b+c+d?",
+        "true-answer": " 71",
+        "wrong-answers": [
+            " 52",
+            " 83",
+            " 74",
+            " 17"
+        ]
+    },
+    {
+        "question": "\n380. \u0430=3,b=4, \u0441=5, d=6; if c < b, then d=a+3, otherwise c=c+a. As a result of the execution of the algorithm, what is the sum of a+b+c+d?",
+        "true-answer": " 21",
+        "wrong-answers": [
+            " 20",
+            " 19",
+            " 22",
+            " 18"
+        ]
+    },
+    {
+        "question": "\n381. a=12, b=21, c=10. If a>b then a=a+3: c=c+a: otherwise c:=a+b+c/2. As a result of the execution of the algorithm, what is the value of\nthe variable c?",
+        "true-answer": " 38",
+        "wrong-answers": [
+            " 25",
+            " 84",
+            " 64",
+            " 43"
+        ]
+    },
+    {
+        "question": "\n382. There is an array of numbers 8,23,5,65,44,33,1,6. How many iterations are required to sort the array by the Bubble Sort algorithm?",
+        "true-answer": " 4",
+        "wrong-answers": [
+            " 18",
+            " 3",
+            " 10",
+            " 28"
+        ]
+    },
+    {
+        "question": "\n383. Write down the state of the list [7,3,9,4,2,5,6,1,8] after the fifth pass of the Selection Sort algorithm.",
+        "true-answer": " [1,2,3,4,5,9,6,7,8]",
+        "wrong-answers": [
+            " [1,3,9,4,7,5,6,1,8]",
+            " [7,3,2,4,9,5,6,1,8]",
+            " [7,3,9,4,2,5,6,1,8]",
+            " [1,3,9,4,2,5,6,7,8]"
+        ]
+    },
+    {
+        "question": "\n384. Write down the state of the list [7,3,9,4,2,5,6,1,8] after the fifth pass of the Insertion Sort algorithm.",
+        "true-answer": " [2,3,4,7,9,5,6,1,8]",
+        "wrong-answers": [
+            " [7,3,2,4,9,5,6,1,8]",
+            " [7,3,9,4,2,5,6,1,8]",
+            " [1,3,9,4,7,5,6,1,8]",
+            " [1,3,9,4,2,5,6,7,8]"
+        ]
+    },
+    {
+        "question": "\n385. A 10-element array composed of random numbers is sorted according to the Bubble Sort algorithm. How many comparison operations\nare needed?",
+        "true-answer": " 45",
+        "wrong-answers": [
+            " 56",
+            " 10",
+            " 9",
+            " 8"
+        ]
+    },
+    {
+        "question": "\n386. During the sorting process, neighboring elements are compared. What is the sorting algorithm?",
+        "true-answer": " Bubble Sort",
+        "wrong-answers": [
+            " Selection Sort",
+            " MergeSort",
+            " Quisk Sort",
+            " \u0130nsertion Sort"
+        ]
+    },
+    {
+        "question": "\n387. During the sorting process, the entire array being sorted and each of its parts are divided into two parts. Which algorithm performs this\nsorting?",
+        "true-answer": " Quisk Sort",
+        "wrong-answers": [
+            " Bubble Sort",
+            " Selection Sort",
+            " Insertion Sort",
+            " Radix Sort"
+        ]
+    },
+    {
+        "question": "\n388. Which of these sorting algorithms has complexity O(n*n) in the best, average, and worst cases?",
+        "true-answer": " Selection Sort",
+        "wrong-answers": [
+            " Radix Sort",
+            " MergeSort",
+            " Insertion Sort",
+            " Quisk Sort"
+        ]
+    },
+    {
+        "question": "\n389. Which of these sorting algorithms have the best, average, and worst complexity determined by the same expression?",
+        "true-answer": " Merge Sort",
+        "wrong-answers": [
+            " Radix Sort",
+            " Quisk Sort",
+            " \u0130nsertion Sort",
+            " Bubble Sort"
+        ]
+    },
+    {
+        "question": "\n390. During the sorting process, a large number of elements may be moved across the array. Which algorithm performs this sorting?",
+        "true-answer": " Insertion Sort",
+        "wrong-answers": [
+            " Quisk Sort",
+            " Merge Sort",
+            " Selection Sort",
+            " Bubble Sort"
+        ]
+    },
+    {
+        "question": "\n391. Which expression defines the complexity of the Bubble Sort algorithmin the average case?",
+        "true-answer": " O(n*n)",
+        "wrong-answers": [
+            " O(n)",
+            " O(n!)",
+            " O(ln n)",
+            " O(n*ln n)"
+        ]
+    },
+    {
+        "question": "\n392. Which expression defines the complexity of the Selection Sort algorithm in the average case?",
+        "true-answer": " O(n*n)",
+        "wrong-answers": [
+            " O(n*ln n)",
+            " O(n)",
+            " O(ln n)",
+            " O(n!)"
+        ]
+    },
+    {
+        "question": "\n393. Which expression best describes the time complexity of the Insertion Sort algorithm?",
+        "true-answer": " O(n)",
+        "wrong-answers": [
+            " O(ln n)",
+            " O(n!)",
+            " O(n*ln n)",
+            " O(n*n)"
+        ]
+    },
+    {
+        "question": "\n394. Which expression defines the complexity of the Quick Sort algorithm in the best and average cases?",
+        "true-answer": " O(n*ln n)",
+        "wrong-answers": [
+            " O(n!)",
+            " O(n)",
+            " O(n*n)",
+            " O(ln n)"
+        ]
+    },
+    {
+        "question": "\n395. Which of the following statements best characterizes Bubble Sort?",
+        "true-answer": " Adjacent elements are compared.",
+        "wrong-answers": [
+            " Performs the minimum number of operations.",
+            " It is considered the fastest.",
+            " It searches for the smallest or largest element.",
+            " Not suitable for 1-dimensional arrays."
+        ]
+    },
+    {
+        "question": "\n396. The main requirement for performing binary search in an array:",
+        "true-answer": " Orderliness",
+        "wrong-answers": [
+            " No special requirements",
+            " Large size",
+            " Disorderliness",
+            " Small size"
+        ]
+    },
+    {
+        "question": "\n397. There is an ordered array of 16 integers. How many comparison operations are required during binary search to establish the fact of the\nabsence of desired data in this array?",
+        "true-answer": " 4",
+        "wrong-answers": [
+            " 10",
+            " 5",
+            " 1",
+            " 15"
+        ]
+    },
+    {
+        "question": "\n398. There is an unordered array of 8 integers. How many comparison operations are required to find the desired key if it is at the beginning\nof the array?",
+        "true-answer": " 1",
+        "wrong-answers": [
+            " 4",
+            " 8",
+            " 7",
+            " 0"
+        ]
+    },
+    {
+        "question": "\n399. There is an unordered array of 8 integers. How many comparison operations are required to find the desired key if it is in the middle of\nthe array?",
+        "true-answer": " 4",
+        "wrong-answers": [
+            " 8",
+            " 7",
+            " 1",
+            " 0"
+        ]
+    },
+    {
+        "question": "\n400. There is an unordered array of 8 integers. How many comparison operations are required to find the desired key if it is at the end of the\narray?",
+        "true-answer": " 8",
+        "wrong-answers": [
+            " 0",
+            " 1",
+            " 4",
+            " 7"
+        ]
+    },
+    {
+        "question": "\n401. During the sorting process, it is possible to move a large number of elements through the array. Which algorithm is this sorting done by?",
+        "true-answer": " Insertion Sort",
+        "wrong-answers": [
+            " Quisk Sort",
+            " BubbleSort",
+            " \u015eella",
+            " SelectionSort"
+        ]
+    },
+    {
+        "question": "\n402. Which of these types of sorting is less efficient?",
+        "true-answer": " BubbleSort",
+        "wrong-answers": [
+            " \u015eella",
+            " Xoar",
+            " InsertionSort",
+            " SelectionSort"
+        ]
+    },
+    {
+        "question": "\n403. Which one is an external sorting algorithm?",
+        "true-answer": " Quisk sort",
+        "wrong-answers": [
+            " Bubble Sort",
+            " Selection Sort",
+            " Radix Sort",
+            " \u0130nsertion Sort"
+        ]
+    },
+    {
+        "question": "\n404. What is the name of the data sorting in RAM?",
+        "true-answer": " internal sorting",
+        "wrong-answers": [
+            " selection sort",
+            " insertion sort",
+            " external sorting",
+            " complete sort"
+        ]
+    },
+    {
+        "question": "\n405. If x=3.5 and y=2.4, what will be the values of x and y after executing the operations x=x+y, y=x-y, x=x-y?",
+        "true-answer": " 2.4 \u0438 3.5",
+        "wrong-answers": [
+            " 2.4 \u0438 2.4",
+            " 3.5 \u0438 2.4",
+            " 3.4 \u0438 2.5",
+            " 3.5 \u0438 3.5"
+        ]
+    },
+    {
+        "question": "\n406. If x=5.2 and y=18.7, what will be the values of x and y after executing the operations t=x, x=y, y=t?",
+        "true-answer": " 18.7 \u0438 5.2",
+        "wrong-answers": [
+            " 5.7 \u0438 18.7",
+            " 5.2 \u0438 17.7",
+            " 5.7 \u0438 18.2",
+            " 5..2 \u0438 18.2"
+        ]
+    },
+    {
+        "question": "\n407. The initial values of the elements A(3) and A(4) of the array are A(3)=2 and A(4)=3. After performing the operations b=A(3),\nA(3)=A(4), A(4)=b what will be the values of the elements A(3) and A(4)?",
+        "true-answer": " A(3)=3,A(4)=2",
+        "wrong-answers": [
+            " A(3)=3,A(4)=0",
+            " A(3)=2,A(4)=2",
+            " A(3)=0,A(4)=3",
+            " A(3)=3,A(4)=3"
+        ]
+    },
+    {
+        "question": "\n408. What is the data structure that allows access to any element at any time and using indices?",
+        "true-answer": " \u043c\u0430\u0441\u0441\u0438\u0432",
+        "wrong-answers": [
+            " \u043e\u0447\u0435\u0440\u0435\u0434",
+            " \u0437\u0430\u043f\u0438\u0441\u044c",
+            " \u0433\u0440\u0430\u0444",
+            " \u043c\u043d\u043e\u0436\u0435\u0441\u0442\u0432\u043e"
+        ]
+    },
+    {
+        "question": "\n409. The sequence of numbers is given by the formulas: T(n)=T(n-1)+n*n*n, T(1)=1, n=2,3,.... What equals T(4)?",
+        "true-answer": " 100",
+        "wrong-answers": [
+            " 150",
+            " 50",
+            " 256",
+            " 80"
+        ]
+    },
+    {
+        "question": "\n410. The sequence of numbers is given by the formulas: T(n)=T(n-1)+n*n, T(1)=1, n=2,3,.... What equals T(5)?",
+        "true-answer": " 55",
+        "wrong-answers": [
+            " 25",
+            " 35",
+            " 85",
+            " 15"
+        ]
+    },
+    {
+        "question": "\n411. The sequence of numbers is given by the formulas: T(n)=T(n-1)+1/(n(n-1)), T(1)=0, n=2,3,.... What equals the sum T(2)+T(3)+T(4)?",
+        "true-answer": " 23/12",
+        "wrong-answers": [
+            " 22/13",
+            " 19/15",
+            " 17/16",
+            " 21/14"
+        ]
+    },
+    {
+        "question": "\n412. The sequence of numbers is given by the formulas: T(n)=T(n-1)+2n-1, T(1)=0, n=2,3,.... What equals T(10)?",
+        "true-answer": " 99",
+        "wrong-answers": [
+            " 69",
+            " 109",
+            " 119",
+            " 59"
+        ]
+    },
+    {
+        "question": "\n413. The sequence of numbers is given by the formulas: T(n)=T(n-1)+2n-1, T(0)=1, n=2,3,.... What equals T(9)+T(8)?",
+        "true-answer": " 147",
+        "wrong-answers": [
+            " 146",
+            " 149",
+            " 145",
+            " 148"
+        ]
+    },
+    {
+        "question": "\n414. The sequence of numbers is given by the formulas: T(n)=T(n-1)+1, T(1)=0, n=2,3,... What equals T(6)+T(7)+T(8)?",
+        "true-answer": " 18",
+        "wrong-answers": [
+            " 17",
+            " 19",
+            " 20",
+            " 16"
+        ]
+    },
+    {
+        "question": "\n415. Show incorrect recurrence equation",
+        "true-answer": " T(n)=T(n-1)+T(n+1)",
+        "wrong-answers": [
+            " T(n)=T(n-1)+T(n-2)",
+            " T(n)=nT(n-1)",
+            " T(n)=T(n-1)+1",
+            " T(n)=T(n-1)+n"
+        ]
+    },
+    {
+        "question": "\n416. Show the correct recurrence equation",
+        "true-answer": " T(n)=T(n-1)+n",
+        "wrong-answers": [
+            " T(n)=T(n-1)+T(n+1)",
+            " T(n)=2T(n-1)+T(n+1)",
+            " T(n)=T(n-1)+T(n+5)",
+            " T(n)=T(n-1)+T(n+3)"
+        ]
+    },
+    {
+        "question": "\n417. Leaves of the tree...",
+        "true-answer": " Vertices with one incoming edge and no outgoing edges",
+        "wrong-answers": [
+            " Called a vertex with all descendants.",
+            " Vertices with one incoming edge and one or more outgoing edges.",
+            " There are no correct answers.",
+            " A vertex with no incoming edges."
+        ]
+    },
+    {
+        "question": "\n418. Nodes of the tree...",
+        "true-answer": " Vertices with one incoming edge and one or more outgoing edges",
+        "wrong-answers": [
+            " A vertex with no incoming edges.",
+            " Vertices with one incoming edge and no outgoing edges.",
+            " There are no correct answers.",
+            " Called a vertex with all descendants."
+        ]
+    },
+    {
+        "question": "\n419. The root of the tree...",
+        "true-answer": " A vertex with no incoming edges",
+        "wrong-answers": [
+            " Vertices with one incoming edge and one or more outgoing edges.",
+            " Called a vertex with all descendants.",
+            " It is a node that has no child nodes.",
+            " Vertices with one incoming edge and no outgoing edges."
+        ]
+    },
+    {
+        "question": "\n420. The method of dynamic programming is applied to solve...",
+        "true-answer": " Multi-step tasks",
+        "wrong-answers": [
+            " Tasks that cannot be represented as a sequence of individual steps.",
+            " Macroeconomic problems.",
+            " By the method of solving statistical problems.",
+            " Only linear programming tasks."
+        ]
+    },
+    {
+        "question": "\n421. One of the following statements is not true for a red-black tree:",
+        "true-answer": " Not a self-balancing binary search tree",
+        "wrong-answers": [
+            " Each vertex can be either red or black.",
+            " Each leaf is black.",
+            " If a vertex is red, then both of its children are black.",
+            " There cannot be any colorless vertices or vertices of a different color."
+        ]
+    },
+    {
+        "question": "\n422. Write down the state of the list 3,5,2,9,8,1,6,4,7 after the fifth pass of the Insertion Sort algorithm.",
+        "true-answer": " 1,2,3,5,8,9,6,4,7",
+        "wrong-answers": [
+            " 1, 5, 2, 9,8,7,6,4,3",
+            " 1, 5, 7, 9,8,3,6,4, 7",
+            " 3, 5, 2, 8,9,1,6,4, 7",
+            " 3, 4, 2, 9,8,1,6,7, 5"
+        ]
+    },
+    {
+        "question": "\n423. Write down the state of the list 7,3,9,4,2,5,6,1,8 after the fourth pass of the Insertion Sort algorithm.",
+        "true-answer": " 2,3,4,7,9,5,6,1,8",
+        "wrong-answers": [
+            " 8,3,9,4,2, 5,6,1,7",
+            " 37,9,4,2, 5,6,1,8",
+            " 9,3,7,4,2, 5,6,1,8",
+            " 7,3,1,4,2, 5,6,9,8"
+        ]
+    },
+    {
+        "question": "\n424. Which of these algorithms is not recursive?",
+        "true-answer": " Heron",
+        "wrong-answers": [
+            " Binary Search",
+            " Euclid",
+            " Merge Sort",
+            " Quisk Sort"
+        ]
+    },
+    {
+        "question": "\n425. Show a modified version of the Bubble Sort algorithm.",
+        "true-answer": " Cocktail Sort",
+        "wrong-answers": [
+            " Quisk Sort",
+            " Radix Sort",
+            " Merge sort",
+            " Tim Sort"
+        ]
+    },
+    {
+        "question": "\n426. The array {5,3,8,0,7,4,9,1,6,2} is sorted by the Shell algorithm. How many comparisons are made in the third pass?",
+        "true-answer": " 45",
+        "wrong-answers": [
+            " 35",
+            " 15",
+            " 5",
+            " 30"
+        ]
+    },
+    {
+        "question": "\n427. The array {5,3,8,0,7,4,9,1,6,2} is sorted by the Shell algorithm. How many comparisons are made in the second pass?",
+        "true-answer": " 20",
+        "wrong-answers": [
+            " 15",
+            " 5",
+            " 35",
+            " 11"
+        ]
+    },
+    {
+        "question": "\n428. The array {5,3,8,0,7,4,9,1,6,2} is sorted by the Shell algorithm. How many comparisons are made in the first pass?",
+        "true-answer": " 5",
+        "wrong-answers": [
+            " 10",
+            " 20",
+            " 45",
+            " 22"
+        ]
+    },
+    {
+        "question": "\n429. The array {5,3,8,0,7,4,9,1,6,2} is sorted by the Shell algorithm. How many movements are made during the third pass?",
+        "true-answer": " 2",
+        "wrong-answers": [
+            " 8",
+            " 10",
+            " 3",
+            " 6"
+        ]
+    },
+    {
+        "question": "\n430. The array {5,3,8,0,7,4,9,1,6,2} is sorted by the Shell algorithm. How many movements are made during the second pass?",
+        "true-answer": " 5",
+        "wrong-answers": [
+            " 4",
+            " 10",
+            " 6",
+            " 7"
+        ]
+    },
+    {
+        "question": "\n431. The array {5,3,8,0,7,4,9,1,6,2} is sorted by the Shell algorithm. How many movements are made during the first pass?",
+        "true-answer": " 3",
+        "wrong-answers": [
+            " 4",
+            " 5",
+            " 10",
+            " 2"
+        ]
+    },
+    {
+        "question": "\n432. An array with n elements is sorted in time proportional to n*n. Which sorting algorithm was used?",
+        "true-answer": " Bubble Sort",
+        "wrong-answers": [
+            " Shell",
+            " Merge Sort",
+            " Quisk Sort",
+            " Heapsort"
+        ]
+    },
+    {
+        "question": "\n433. Which of the following sorting algorithms are based on the \"divide and conquer\" principle? 1) Quick Sort, 2) Merge Sort, 3) Heap Sort,\n4) Bubble Sort, 5) Radix Sort",
+        "true-answer": " 1),2)",
+        "wrong-answers": [
+            " 1),3)",
+            " 1),5)",
+            " 3),4)",
+            " 2),5)"
+        ]
+    },
+    {
+        "question": "\n434. There are arrays of numbers 6,2,4,7,1,3,8,5. What will the array look like after the second pass of the Shell Sort algorithm?",
+        "true-answer": " 1,2,4,3,6,5,8,7",
+        "wrong-answers": [
+            " 1,2,4,5,6,3,8,7",
+            " 1,4,2,5,6,3,7,8",
+            " 1,2,4,6,5,8,3,7",
+            " 1,2,5,4,6,3,8,7"
+        ]
+    },
+    {
+        "question": "\n435. There are arrays of numbers 6,2,4,7,1,3,8,5. How many passes are needed to sort the array using the Insertion Sort algorithm?",
+        "true-answer": " 7",
+        "wrong-answers": [
+            " 5",
+            " 4",
+            " 3",
+            " 8"
+        ]
+    },
+    {
+        "question": "\n436. The array of numbers 3, 7, 8, 5, 2, 1, 9, 5 is sorted by the Shell algorithm with the initial step d=4. How many iterations are required to\nsort this array?",
+        "true-answer": " 3",
+        "wrong-answers": [
+            " 2",
+            " 5",
+            " 6",
+            " 4"
+        ]
+    },
+    {
+        "question": "\n437. The array of numbers 3, 7, 8, 5, 2, 1, 9, 5 is sorted by the Shell algorithm with the initial step d=4. How many groups are obtained after\nthe first iteration?",
+        "true-answer": " 4",
+        "wrong-answers": [
+            " 3",
+            " 5",
+            " 2",
+            " 6"
+        ]
+    },
+    {
+        "question": "\n438. Which expression defines the number of permutations for Bubble Sort in the best case?",
+        "true-answer": " 0",
+        "wrong-answers": [
+            " n*n",
+            " n(n-1)/2",
+            " n(n-1)/4",
+            " n-1"
+        ]
+    },
+    {
+        "question": "\n439. There is a 9-element sorted array of integers. If the desired key element is exactly in the middle of the second half of the array, how\nmany comparisons are needed to find it?",
+        "true-answer": " 2",
+        "wrong-answers": [
+            " 9",
+            " 0",
+            " 5",
+            " 1"
+        ]
+    },
+    {
+        "question": "\n440. There is an unordered array of n elements. How many comparisons with the worst case should be performed for searching?",
+        "true-answer": " n",
+        "wrong-answers": [
+            " 1",
+            " n-1",
+            " n+1",
+            " 2n"
+        ]
+    },
+    {
+        "question": "\n441. There is an unordered array of n elements. How many comparisons in the best case should be performed for searching?",
+        "true-answer": " 1",
+        "wrong-answers": [
+            " n",
+            " 2n",
+            " n+1",
+            " n-1"
+        ]
+    },
+    {
+        "question": "\n442. The main advantage of linear search:",
+        "true-answer": " Algorithmic simplicity",
+        "wrong-answers": [
+            " high speed",
+            " Ability to work with organized data",
+            " Short run time",
+            " Ability to work effectively with large amounts of data"
+        ]
+    },
+    {
+        "question": "\n443. There is an ordered integer array of 512 elements. How many comparison operations are required in a binary search to determine that\nthe requested data does not exist in this array?",
+        "true-answer": " 9",
+        "wrong-answers": [
+            " 5",
+            " 8",
+            " 10",
+            " 7"
+        ]
+    },
+    {
+        "question": "\n444. There is an ordered array of 32 integers. How many comparison operations are needed in a binary search to establish the fact of the\nabsence of the desired data in this array?",
+        "true-answer": " 5",
+        "wrong-answers": [
+            " 10",
+            " 16",
+            " 8",
+            " 1"
+        ]
+    },
+    {
+        "question": "\n445. Which type of sorting is more efficient?",
+        "true-answer": " Quisk Sort",
+        "wrong-answers": [
+            " Insertion Sort",
+            " Bubble Sort",
+            " Shell",
+            " Selection Sort"
+        ]
+    },
+    {
+        "question": "\n446. Which type of sorting is less efficient?",
+        "true-answer": " Bubble Sort",
+        "wrong-answers": [
+            " Selection Sort",
+            " Quisk Sort",
+            " Shell",
+            " Insertion Sort"
+        ]
+    },
+    {
+        "question": "\n447. If the array \"bdac\" is sorted by selection, the following passes will be obtained.",
+        "true-answer": " First pass: a d b c; Second pass: a b d c; Third pass: a b c d.",
+        "wrong-answers": [
+            " First pass: a d b c; Second pass: a b d c; Third pass: d b c a.",
+            " First pass: a d b c; Second pass: a c d b; Third pass: a b c d.",
+            " First pass: c d b a; Second pass: a c d b; Third pass: a b c d.",
+            " First pass: c d b a; Second pass: a b b c; Third pass: a b c d."
+        ]
+    },
+    {
+        "question": "\n448. Which expression characterizes the efficiency of search in a binary search tree?",
+        "true-answer": " O(log2N)",
+        "wrong-answers": [
+            " O(N*N)",
+            " O(1)",
+            " O(N)",
+            " O(N/2)"
+        ]
+    },
+    {
+        "question": "\n449. By which formula is the complexity of the linear search algorithm calculated in the average case?",
+        "true-answer": " (n+1)/2",
+        "wrong-answers": [
+            " (2n-1)/2",
+            " (n-2)/2",
+            " (2n+1)/2",
+            " (n-1)/2"
+        ]
+    },
+    {
+        "question": "\n450. On what type of sorting is Shell Sort based?",
+        "true-answer": " \u0130nsertion Sort",
+        "wrong-answers": [
+            " MergeSort",
+            " Bubble Sort",
+            " \u015eeyker",
+            " Selection Sort"
+        ]
+    },
+    {
+        "question": "\n451. During the sorting process, the entire array and each of its parts are divided into two parts. What is the sorting algorithm?",
+        "true-answer": " Quisk Sort",
+        "wrong-answers": [
+            " Insertion Sort",
+            " Shell sort",
+            " Bubble Sort",
+            " Selection Sort"
+        ]
+    },
+    {
+        "question": "\n452. A full binary tree can be generated using ______",
+        "true-answer": " post-order and pre-order traversal",
+        "wrong-answers": [
+            " pre-order traversal",
+            " in-order traversal",
+            " post-order and in-order traversal",
+            " post-order traversal"
+        ]
+    },
+    {
+        "question": "\n453. Which of the following pair\u2019s traversals on a binary tree can build the tree uniquely?",
+        "true-answer": " post-order and in-order",
+        "wrong-answers": [
+            "",
+            " post-order and pre-order",
+            " post-order and level order",
+            " level order and preorder"
+        ]
+    },
+    {
+        "question": "\n454. What is the possible number of binary trees that can be created with 3 nodes, giving the sequence N, M, L when traversed in post-order.",
+        "true-answer": " 5",
+        "wrong-answers": [
+            " 15",
+            " 8",
+            " 6",
+            " 3"
+        ]
+    },
+    {
+        "question": "\n455. In postorder traversal of binary tree right subtree is traversed before visiting root.",
+        "true-answer": " True",
+        "wrong-answers": [
+            "",
+            " False",
+            " All of them",
+            " None of them"
+        ]
+    },
+    {
+        "question": "\n456. In a binary search tree, which of the following traversals would print the numbers in the ascending order?",
+        "true-answer": " In-order traversal",
+        "wrong-answers": [
+            " Post-order traversal",
+            " Level-order traversal",
+            " None of them",
+            " Pre-order traversal"
+        ]
+    },
+    {
+        "question": "\n457. Which of the following graph traversals closely imitates level order traversal of a binary tree?",
+        "true-answer": " Breadth First Search",
+        "wrong-answers": [
+            " Depth First Search",
+            " Binary Search",
+            " Linear Search",
+            " Depth & Breadth First Search"
+        ]
+    },
+    {
+        "question": "\n458. What is the time complexity of level order traversal? (d is the tree depth and n is the number of nodes)",
+        "true-answer": " O(n)",
+        "wrong-answers": [
+            " O(d)",
+            " O(nlogd)",
+            " O(1)",
+            " O(logd)"
+        ]
+    },
+    {
+        "question": "\n459. What is the space complexity of the in-order traversal in the recursive fashion? (d is the tree depth and n is the number of nodes)",
+        "true-answer": " O(d)",
+        "wrong-answers": [
+            " O(logd)",
+            " O(1)",
+            " O(n)",
+            " O(nlogd)"
+        ]
+    },
+    {
+        "question": "\n460. For the tree below, write the level-order traversal.",
+        "true-answer": " 2, 7, 5, 2, 11, 9, 6, 5, 4",
+        "wrong-answers": [
+            " 2, 7, 2, 6, 5, 11, 5, 9, 4",
+            " 2, 7, 5, 6, 11, 2, 5, 4, 9",
+            " 7, 2, 6, 5, 11, 5, 9, 4, 2",
+            " 2, 5, 11, 6, 7, 4, 9, 5, 2"
+        ]
+    },
+    {
+        "question": "\n461. For the tree below, write the in-order traversal.",
+        "true-answer": " 6, 2, 5, 7, 11, 2, 5, 9, 4",
+        "wrong-answers": [
+            " 6, 5, 2, 11, 7, 4, 9, 5, 2",
+            " 2, 7, 6, 5, 11, 2, 9, 5, 4",
+            " 7, 2, 6, 5, 11, 5, 9, 4, 2",
+            " 2, 7, 2, 6, 5, 11, 5, 9, 4"
+        ]
+    },
+    {
+        "question": "\n462. A graph in which all vertices have the same degree is called...",
+        "true-answer": " Regular.",
+        "wrong-answers": [
+            " Bipartite.",
+            " Weighted.",
+            " Connected.",
+            " Star-shaped."
+        ]
+    },
+    {
+        "question": "\n463. Edges of a graph can be associated with:",
+        "true-answer": " Relationships between objects",
+        "wrong-answers": [
+            " Objects.",
+            " Types of relationships.",
+            " Connections.",
+            " Sets."
+        ]
+    },
+    {
+        "question": "\n464. A graph for which there is a path between each pair of vertices is called...",
+        "true-answer": " Connected",
+        "wrong-answers": [
+            " Regular.",
+            " Null graph.",
+            " Trivial graph.",
+            " Simple graph."
+        ]
+    },
+    {
+        "question": "\n465. A graph without loops and parallel edges is called...",
+        "true-answer": " Simple graph",
+        "wrong-answers": [
+            " Connected.",
+            " Trivial graph.",
+            " Null graph.",
+            " Regular."
+        ]
+    },
+    {
+        "question": "\n466. A graph containing only arcs is called...",
+        "true-answer": " Directed",
+        "wrong-answers": [
+            " Undirected.",
+            " Complex.",
+            " Connected.",
+            " Simple."
+        ]
+    },
+    {
+        "question": "\n467. A graph containing only edges is called...",
+        "true-answer": " Undirected",
+        "wrong-answers": [
+            " Simple.",
+            " Directed.",
+            " Complex.",
+            " Connected."
+        ]
+    },
+    {
+        "question": "\n468. The number of edges in a full binary tree with n vertices equals...",
+        "true-answer": " n-1",
+        "wrong-answers": [
+            " n",
+            " 2n-1",
+            " n+1",
+            " 2n"
+        ]
+    },
+    {
+        "question": "\n469. How is the length of a tree path defined?",
+        "true-answer": " The sum of the lengths of all paths in the graph",
+        "wrong-answers": [
+            " The number of edges from a node to a vertex.",
+            " The maximum number of leaves.",
+            " The maximum number of edges.",
+            " The number of edges from a leaf to a vertex."
+        ]
+    },
+    {
+        "question": "\n470. The degree of a tree is called...",
+        "true-answer": " Maximum degree of all nodes",
+        "wrong-answers": [
+            " Maximum number of nodes.",
+            " Maximum number of connections.",
+            " Maximum number of leaves.",
+            " The maximum number of levels of its nodes."
+        ]
+    },
+    {
+        "question": "\n471. A tree is:",
+        "true-answer": " Undirected connected graph",
+        "wrong-answers": [
+            " Graph with adjacent vertices.",
+            " Directed disconnected graph.",
+            " Undirected disconnected graph.",
+            " Directed connected graph."
+        ]
+    },
+    {
+        "question": "\n472. A graph is called complete...",
+        "true-answer": " If any two vertices are connected by an edge",
+        "wrong-answers": [
+            " If some edges of the graph are directed while others are undirected.",
+            " If the graph contains loops or multiple edges.",
+            " If there exists at least one path between any pair of vertices in the graph.",
+            " If each edge of the graph is associated with a number called the edge weight."
+        ]
+    },
+    {
+        "question": "\n473.\nWhich of the following algorithms is an algorithm for finding the shortest distance between vertices in a weighted connected oriented\nand non-oriented graph:\n1. Dijkstra's algorithm\n2. Floyd's algorithm\n3. Kruskal's algorithm\n4. Prim's algorithm",
+        "true-answer": " 1,2",
+        "wrong-answers": [
+            " 1,4",
+            " 3,4",
+            " 1,3",
+            " 2,4"
+        ]
+    },
+    {
+        "question": "\n474.\nWhich of the following algorithms is an algorithm for constructing a minimum spanning tree of a weighted connected undirected graph:\n1. Dijkstra's algorithm\n2. Floyd's algorithm\n3. Kruskal's algorithm\n4. Prim's algorithm",
+        "true-answer": " 3,4",
+        "wrong-answers": [
+            " 1,4",
+            " 2,3",
+            " 1,3",
+            " 1,2"
+        ]
+    },
+    {
+        "question": "\n475. Kruskal's algorithm...",
+        "true-answer": " Starts with selecting the edge with the smallest weight",
+        "wrong-answers": [
+            " Refers to breadth-first search algorithms.",
+            " Does not depend on which vertex of the graph is initially chosen.",
+            " Represents an algorithm for finding the shortest distance from one vertex to all other vertices in a directed and undirected weighted graph.",
+            " Algorithm for finding shortest paths between all pairs of vertices in directed and undirected weighted graphs."
+        ]
+    },
+    {
+        "question": "\n476. How many nodes does a full binary tree with 10 levels have?",
+        "true-answer": " 2047",
+        "wrong-answers": [
+            " 2048",
+            " 511",
+            " 1023",
+            " 1024"
+        ]
+    },
+    {
+        "question": "\n477. How many levels does a full binary tree with 127 nodes have?",
+        "true-answer": " 7",
+        "wrong-answers": [
+            " 5",
+            " 6",
+            " 8",
+            " 10"
+        ]
+    },
+    {
+        "question": "\n478. How many nodes does a full binary tree with k levels have?",
+        "true-answer": " 2^(k+1)-1",
+        "wrong-answers": [
+            " 2^(k+1)",
+            " 2k",
+            " 2^k",
+            " 4k"
+        ]
+    },
+    {
+        "question": "\n479. Arcs in a graph...",
+        "true-answer": " Directed edges",
+        "wrong-answers": [
+            " Undirected edges.",
+            " No correct answers.",
+            " Adjacent edges.",
+            " Multiple edges."
+        ]
+    },
+    {
+        "question": "\n480. Algorithms are used to construct a spanning tree of a graph.",
+        "true-answer": " Kruskal and Prim",
+        "wrong-answers": [
+            " Heron.",
+            " Dijkstra and Floyd.",
+            " Euler.",
+            " Hamiltonian."
+        ]
+    },
+    {
+        "question": "\n481. A tree is...",
+        "true-answer": " Undirected connected graph",
+        "wrong-answers": [
+            " Directed disconnected graph.",
+            " No correct answers.",
+            " Directed connected graph.",
+            " Graph with adjacent vertices."
+        ]
+    },
+    {
+        "question": "\n482. What graph is called simple?",
+        "true-answer": " Without loops and parallel edges",
+        "wrong-answers": [
+            " Consisting of a single loop.",
+            " Consisting of a single isolated point.",
+            " With a closed simple chain.",
+            " If all edges are parallel."
+        ]
+    },
+    {
+        "question": "\n483. What expression characterizes the efficiency of search in a binary search tree?",
+        "true-answer": " O(log n)",
+        "wrong-answers": [
+            " O(1)",
+            " O(n/2)",
+            " O(n)",
+            " O(n*n)"
+        ]
+    },
+    {
+        "question": "\n484. What data structures does a tree generally belong to?",
+        "true-answer": " To dynamic non-linear structures",
+        "wrong-answers": [
+            " To static non-linear structures.",
+            " To static linear structures.",
+            " To circular structures.",
+            " To dynamic linear structures."
+        ]
+    },
+    {
+        "question": "\n485. Subtree is...",
+        "true-answer": " Called a vertex with all descendants",
+        "wrong-answers": [
+            " Vertices with one incoming edge and one or more outgoing edges.",
+            " There are no correct answers.",
+            " Vertices with one incoming edge and no outgoing edges.",
+            " A vertex with no incoming edges."
+        ]
+    },
+    {
+        "question": "\n486. There is a perfectly balanced binary tree containing 31 nodes. What is the height of this tree?",
+        "true-answer": " 5 levels",
+        "wrong-answers": [
+            " 2 levels",
+            " 3 levels",
+            " 4 levels",
+            " 1 levels"
+        ]
+    },
+    {
+        "question": "\n487. Which of the following statements is a greedy approach?",
+        "true-answer": " At each stage, the best ones for this stage are selected.",
+        "wrong-answers": [
+            " One step is chosen, the next two steps are considered.",
+            " The problem is divided into subtasks, and the solution to the main problem is found from the solution to the subtasks.",
+            " When making a decision about one step, the next step is considered.",
+            " It goes from the end to the beginning."
+        ]
+    },
+    {
+        "question": "\n488. Which of the following can be considered a good case for Binary search trees?",
+        "true-answer": " The array is created of random numbers.",
+        "wrong-answers": [
+            " The number of elements in the array is odd.",
+            " The array is created of even numbers.",
+            " The array is created of ordered numbers.",
+            " The array is created of odd numbers."
+        ]
+    },
+    {
+        "question": "\n489. Which of the following is considered the worst case for Binary search trees?",
+        "true-answer": " The array is created of ordered numbers.",
+        "wrong-answers": [
+            " The array is created of odd numbers.",
+            " The number of elements in the array is odd.",
+            " The array is created of even numbers.",
+            " The array is created of random numbers."
+        ]
+    },
+    {
+        "question": "\n490. Which of the following is the correct definition of the stack logic?",
+        "true-answer": " The last written value is used first.",
+        "wrong-answers": [
+            " The first written value is used first.",
+            " The last written value is used last.",
+            " Each one",
+            " None of them"
+        ]
+    },
+    {
+        "question": "\n491. Which of the following is the correct definition of the queue logic?",
+        "true-answer": " The first written value is used first.",
+        "wrong-answers": [
+            " Each one",
+            " The first written value is used last.",
+            " The last written value is used first.",
+            " None of them"
+        ]
+    },
+    {
+        "question": "\n492. A binary search tree is created by inserting in order the following integers: 20,12,14,5,3,6,32,30,1. Find the in-order traversal of this\nBST.",
+        "true-answer": " 1,3,5,6,12,14,20,30,32",
+        "wrong-answers": [
+            " 1,3,5,14,12,30,32,20,6",
+            " 20,12,5,3,1,6,14,30,32",
+            " 1,3,6,5,14,30,32,12,20",
+            " 20,12,1,6,5,14,30,32,3"
+        ]
+    },
+    {
+        "question": "\n493. A binary search tree is created by inserting in order the following integers: 20,12,14,5,3,6,32,30,1. Find the post-order traversal of this\nBST.",
+        "true-answer": " 1,3,6,5,14,12,30,32,20",
+        "wrong-answers": [
+            " 20,12,5,3,1,6,14,30,32",
+            " 1,3,5,14,12,30,32,20,6",
+            " 20,12,1,6,5,14,30,32,3",
+            " 1,3,6,5,14,30,32,12,20"
+        ]
+    },
+    {
+        "question": "\n494. A binary search tree is created by inserting in order the following integers: 20,12,14,5,3,6,32,30,1. Find the pre-order traversal of this\nBST.",
+        "true-answer": " 20,12,5,3,1,6,14,30,32",
+        "wrong-answers": [
+            " 1,3,5,6,12,14,20,30,32",
+            " 20,12,1,6,5,14,30,32,3",
+            " 1,3,5,14,12,30,32,20,6",
+            " 1,3,6,5,14,30,32,12,20"
+        ]
+    },
+    {
+        "question": "\n495. Which of the given can be as a post-order traversal on the BST?",
+        "true-answer": " AB+",
+        "wrong-answers": [
+            " AB+C",
+            " A+CB",
+            " +AB",
+            " A+B"
+        ]
+    },
+    {
+        "question": "\n496. Which of the given can be as a pre-order traversal on the BST?",
+        "true-answer": " +AB",
+        "wrong-answers": [
+            " A+B",
+            " ACB+",
+            " AB+C",
+            " AB+"
+        ]
+    },
+    {
+        "question": "\n497. A binary search tree is created by inserting in order the following integers: 20,12,14,5,3,6,32,30,1. If the 20 will be deleted, which\nnumber will be written to the node point of that number?",
+        "true-answer": " 30",
+        "wrong-answers": [
+            " 1",
+            " 14",
+            " 32",
+            " 12"
+        ]
+    },
+    {
+        "question": "\n498. A binary search tree is created by inserting in order the following integers: 20,12,14,5,3,6,32,30,1. If the 5 will be deleted, which\nnumber will be written to the node point of that number?",
+        "true-answer": " 6",
+        "wrong-answers": [
+            " 3",
+            " 12",
+            " 1",
+            " 14"
+        ]
+    },
+    {
+        "question": "\n499. A binary search tree is created by inserting in order the following integers: 20,12,14,5,3,6,32,30,1. If the 3 will be deleted, which\nnumber will be written to the node point of that number?",
+        "true-answer": " 1",
+        "wrong-answers": [
+            " 5",
+            " 12",
+            " 14",
+            " 6"
+        ]
+    },
+    {
+        "question": "\n500. There is a binary tree (not a search tree) containing arbitrary characters. Pre-order traversal of the tree gives the following result: A, a, +,\n*, 1, $, x. Which node is the root of the tree?",
+        "true-answer": " A",
+        "wrong-answers": [
+            " 1",
+            " x",
+            " +",
+            " *"
+        ]
+    },
+    {
+        "question": "\n501. There is a binary tree (not a search tree) containing arbitrary characters. Post-order traversal of the tree gives the following result: A, a,\n+, *, 1, $, x. Which node is the root of the tree?",
+        "true-answer": " x",
+        "wrong-answers": [
+            " *",
+            " +",
+            " \u0410",
+            " 1"
+        ]
+    },
+    {
+        "question": "\n502. There is a binary tree (not a search tree) containing integers. Pre-order traversal of the tree gives the following result: 2, 4, 6, 8, 10, 12,\n14. Which node is the root of the tree?",
+        "true-answer": " 2",
+        "wrong-answers": [
+            " 6",
+            " 14",
+            " 10",
+            " 8"
+        ]
+    },
+    {
+        "question": "\n503. There is a binary search tree containing integers from 1 to 7. What will be the result of a in-order traversal?",
+        "true-answer": " 1,2,3,4,5,6,7",
+        "wrong-answers": [
+            " 4,2,1,3,6,5,7",
+            " 1,3,2,5,7,6,4",
+            " 4,2,6,1,3,5,7",
+            " 7,6,5,4,3,2,1"
+        ]
+    },
+    {
+        "question": "\n504. There is a binary search tree containing integers. Post-order traversal of the tree gives the following result: 10, 30, 20, 50, 70, 60, 40.\nWhich node is the root of the tree?",
+        "true-answer": " 40",
+        "wrong-answers": [
+            " 10",
+            " 30",
+            " 70",
+            " 20"
+        ]
+    },
+    {
+        "question": "\n505. A binary search tree is created by inserting in order the following integers: 24,16,12,4,5,7,34,30,2. Find the in-order traversal of this\nBST.",
+        "true-answer": " 2,4,5,7,12,16,24,30,34",
+        "wrong-answers": [
+            " 2,7,16,12,4,30,32,24,6",
+            " 2,7,5,4,12,16,30,34,24",
+            " 24,16,12,4,2,5,7,34,30",
+            " 15,7,2,5,24,4,30,34,16"
+        ]
+    },
+    {
+        "question": "\n506. A binary search tree is created by inserting in order the following integers: 24,16,12,4,5,7,34,30,2. Find the post-order traversal of this\nBST.",
+        "true-answer": " 2,7,5,4,12,16,30,34,24",
+        "wrong-answers": [
+            " 24,16,12,4,2,5,7,34,30",
+            " 2,5,7,12,16,24,30,32,4",
+            " 15,7,2,5,24,4,30,34,16",
+            " 2,7,16,12,4,30,32,24,6"
+        ]
+    },
+    {
+        "question": "\n507. A binary search tree is created by inserting in order the following integers: 24,16,12,4,5,7,34,30,2. Find the pre-order traversal of this\nBST.",
+        "true-answer": " 24,16,12,4,2,5,7,34,30",
+        "wrong-answers": [
+            " 2,7,16,12,4,30,32,24,5",
+            " 12,16,24,5,7,30,34,2",
+            " 2,5,7,12,16,24,30,32,4",
+            " 15,7,2,5,24,4,30,34,16"
+        ]
+    },
+    {
+        "question": "\n508. Which of the given can be as a post-order traversal on the BST?",
+        "true-answer": " KX+",
+        "wrong-answers": [
+            " K+X",
+            " +KX",
+            " +KXY",
+            " KX+Y"
+        ]
+    },
+    {
+        "question": "\n509. Which of the given can be as a pre-order traversal on the BST?",
+        "true-answer": " +KX",
+        "wrong-answers": [
+            " KX+Y",
+            " KXY+",
+            " K+X",
+            " KX+"
+        ]
+    },
+    {
+        "question": "\n510. A binary search tree is created by inserting in order the following integers: 24,16,12,4,5,7,34,30,2,If the 24 will be deleted, which\nnumber will be written to the node point of that number?",
+        "true-answer": " 30",
+        "wrong-answers": [
+            " 7",
+            " 32",
+            " 16",
+            " 34"
+        ]
+    },
+    {
+        "question": "\n511. A binary search tree is created by inserting in order the following integers: 24,16,12,4,5,7,34,30,2,If the 12 will be deleted, which\nnumber will be written to the node point of that number?",
+        "true-answer": " 5",
+        "wrong-answers": [
+            "",
+            " 7",
+            " 4",
+            " 2"
+        ]
+    },
+    {
+        "question": "\n512. A binary search tree is created by inserting in order the following integers: 24,16,12,4,5,7,34,30,2,If the 5 will be deleted, which number\nwill be written to the node point of that number?",
+        "true-answer": " 7",
+        "wrong-answers": [
+            " 24",
+            " 2",
+            " 12",
+            " 4"
+        ]
+    },
+    {
+        "question": "\n513. Consider the following data. The pre order traversal of a binary tree is A, B, E, C, D. The in order traversal of the same binary tree is B,\nE, A, D, C. The level order sequence for the binary tree is _________",
+        "true-answer": " A, B, C, E, D",
+        "wrong-answers": [
+            " B, E, A, C, D",
+            " A, C, D, B, E",
+            " A, B, C, D, E",
+            " D, B, E, A, C"
+        ]
+    },
+    {
+        "question": "\n514. To obtain a prefix expression, which of the tree traversals is used?",
+        "true-answer": " Pre-order traversal",
+        "wrong-answers": [
+            " Post-order traversal",
+            " post-order and in-order traversal",
+            " Level-order traversal",
+            " In-order traversal"
+        ]
+    },
+    {
+        "question": "\n515. What is the space complexity of the post-order traversal in the recursive fashion? (d is the tree depth and n is the number of nodes)",
+        "true-answer": " O(d)",
+        "wrong-answers": [
+            " O(1)",
+            " O(logd)",
+            " O(n)",
+            " O(nlogd)"
+        ]
+    },
+    {
+        "question": "\n516. What is the time complexity of pre-order traversal in the iterative fashion?",
+        "true-answer": " O(n)",
+        "wrong-answers": [
+            " O(n^2)",
+            " O(nlogn)",
+            " O(logn)",
+            " O(1)"
+        ]
+    },
+    {
+        "question": "\n517. For the tree below, write the post-order traversal.",
+        "true-answer": " 6, 5, 2, 11, 7, 4, 9, 5, 2",
+        "wrong-answers": [
+            " 6, 2, 7, 2, 5, 11, 9, 5, 4",
+            " 7, 5, 6, 11, 2, 5, 4, 9, 2",
+            " 6, 2, 7, 2, 11, 5, 5, 9, 4",
+            " 6, 5, 11, 2, 7, 5, 9, 4, 2"
+        ]
+    },
+    {
+        "question": "\n518. For the tree below, write the pre-order traversal.",
+        "true-answer": " 2, 7, 2, 6, 5, 11, 5, 9, 4",
+        "wrong-answers": [
+            " 2, 5, 11, 6, 7, 4, 9, 5, 2",
+            " 7, 5, 6, 11, 2, 5, 4, 9, 2",
+            " 2, 7, 5, 2, 6, 9, 5, 11, 4",
+            " 2, 7, 5, 6, 11, 2, 5, 4, 9"
+        ]
+    },
+    {
+        "question": "\n519. Find the postorder traversal of the binary tree shown below.",
+        "true-answer": " S W T Q X U V R P",
+        "wrong-answers": [
+            " W R S Q P V T U X",
+            " S T W U X V Q R P",
+            " W R S Q P V T X U",
+            " P Q R S T U V W X"
+        ]
+    },
+    {
+        "question": "\n520. The maximum number of nodes in a tree for which post-order and pre-order traversals may be equal is ______",
+        "true-answer": " 1",
+        "wrong-answers": [
+            " 4",
+            " 3",
+            " 2",
+            " any number"
+        ]
+    }
+]
